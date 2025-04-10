@@ -1,0 +1,34 @@
+# Proyecto de Analisis de Datos
+
+Este repositorio contiene un proyecto de análisis, limpieza y preprocesamiento de datos utilizando Python.
+
+### Instalación y Configuración
+
+Para utilizar este proyecto en tu máquina local, sigue estos pasos:
+
+1. Clonar el repositorio
+
+`clone https://github.com/usuario/proyecto_analisis_datos.git`
+
+
+`cd proyecto_analisis_datos`
+
+2. Crear un entorno virtual (recomendado)
+
+Con venv (Python 3):
+
+`python -m venv venv`
+
+3. Activar el entorno virtual:
+
+En Windows:
+
+`venv\Scripts\activate`
+
+En macOS/Linux:
+
+`source venv/bin/activate`
+
+4. Instalar las dependencias
+
+`pip install -r requirements.txt`
