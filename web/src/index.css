@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.bg-custom-header {
+    background-color: #4b4c4b;
+}

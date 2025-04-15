@@ -8,7 +8,7 @@ Para utilizar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clonar el repositorio
 
-`clone https://github.com/usuario/proyecto_analisis_datos.git`
+`clone https://github.com/tatymediina/BigData_proyecto_temperatura.git`
 
 
 `cd proyecto_analisis_datos`
