@@ -3,3 +3,19 @@
 .bg-custom-header {
     background-color: #4b4c4b;
 }
+
+.bg-inicio {
+    background-color: #f3d7cb;
+}
+
+.boton-naranja {
+    background-color: #ee6937;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 9999px;
+    font-size: 1.125rem;
+    transition: background-color 0.3s ease;
+}
+.boton-naranja:hover {
+    background-color: #874A31;
+}
