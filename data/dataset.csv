@@ -1,0 +1,2305 @@
+,jurisdicción,región,año,mes,focosCalor,hectareas
+0,Buenos Aires,Pampeana,2017,1,2844,0
+1,Buenos Aires,Pampeana,2017,2,672,0
+2,Buenos Aires,Pampeana,2017,3,597,0
+3,Buenos Aires,Pampeana,2017,4,494,0
+4,Buenos Aires,Pampeana,2017,5,353,0
+5,Buenos Aires,Pampeana,2017,6,415,0
+6,Buenos Aires,Pampeana,2017,7,449,0
+7,Buenos Aires,Pampeana,2017,8,564,0
+8,Buenos Aires,Pampeana,2017,9,603,0
+9,Buenos Aires,Pampeana,2017,10,481,0
+10,Buenos Aires,Pampeana,2017,11,465,0
+11,Buenos Aires,Pampeana,2017,12,580,0
+12,Catamarca,NOA,2017,1,79,0
+13,Catamarca,NOA,2017,2,65,0
+14,Catamarca,NOA,2017,3,6,0
+15,Catamarca,NOA,2017,4,21,0
+16,Catamarca,NOA,2017,5,31,0
+17,Catamarca,NOA,2017,6,24,0
+18,Catamarca,NOA,2017,7,77,0
+19,Catamarca,NOA,2017,8,201,0
+20,Catamarca,NOA,2017,9,180,0
+21,Catamarca,NOA,2017,10,424,0
+22,Catamarca,NOA,2017,11,1749,0
+23,Catamarca,NOA,2017,12,31,0
+24,Chaco,Norte,2017,1,204,0
+25,Chaco,Norte,2017,2,204,0
+26,Chaco,Norte,2017,3,103,0
+27,Chaco,Norte,2017,4,47,0
+28,Chaco,Norte,2017,5,31,0
+29,Chaco,Norte,2017,6,224,0
+30,Chaco,Norte,2017,7,4155,0
+31,Chaco,Norte,2017,8,5111,0
+32,Chaco,Norte,2017,9,1933,0
+33,Chaco,Norte,2017,10,1739,0
+34,Chaco,Norte,2017,11,1753,0
+35,Chaco,Norte,2017,12,1952,0
+36,Chubut,Pampeana,2017,1,65,0
+37,Chubut,Pampeana,2017,2,39,0
+38,Chubut,Pampeana,2017,3,5,0
+39,Chubut,Pampeana,2017,4,7,0
+40,Chubut,Pampeana,2017,5,7,0
+41,Chubut,Pampeana,2017,6,3,0
+42,Chubut,Pampeana,2017,7,5,0
+43,Chubut,Pampeana,2017,8,4,0
+44,Chubut,Pampeana,2017,9,6,0
+45,Chubut,Pampeana,2017,10,4,0
+46,Chubut,Pampeana,2017,11,21,0
+47,Chubut,Pampeana,2017,12,53,0
+48,CABA,Pampeana,2017,1,0,0
+49,CABA,Pampeana,2017,2,0,0
+50,CABA,Pampeana,2017,3,0,0
+51,CABA,Pampeana,2017,4,0,0
+52,CABA,Pampeana,2017,5,0,0
+53,CABA,Pampeana,2017,6,0,0
+54,CABA,Pampeana,2017,7,0,0
+55,CABA,Pampeana,2017,8,0,0
+56,CABA,Pampeana,2017,9,0,0
+57,CABA,Pampeana,2017,10,0,0
+58,CABA,Pampeana,2017,11,0,0
+59,CABA,Pampeana,2017,12,0,0
+60,Corrientes,NEA,2017,1,150,0
+61,Corrientes,NEA,2017,2,165,0
+62,Corrientes,NEA,2017,3,299,0
+63,Corrientes,NEA,2017,4,310,0
+64,Corrientes,NEA,2017,5,96,0
+65,Corrientes,NEA,2017,6,370,0
+66,Corrientes,NEA,2017,7,3397,0
+67,Corrientes,NEA,2017,8,3392,0
+68,Corrientes,NEA,2017,9,576,0
+69,Corrientes,NEA,2017,10,442,0
+70,Corrientes,NEA,2017,11,774,0
+71,Corrientes,NEA,2017,12,1172,0
+72,Córdoba,Centro,2017,1,84,0
+73,Córdoba,Centro,2017,2,56,0
+74,Córdoba,Centro,2017,3,87,0
+75,Córdoba,Centro,2017,4,98,0
+76,Córdoba,Centro,2017,5,81,0
+77,Córdoba,Centro,2017,6,209,0
+78,Córdoba,Centro,2017,7,614,0
+79,Córdoba,Centro,2017,8,843,0
+80,Córdoba,Centro,2017,9,565,0
+81,Córdoba,Centro,2017,10,621,0
+82,Córdoba,Centro,2017,11,1286,0
+83,Córdoba,Centro,2017,12,194,0
+84,Entre Ríos,NEA,2017,1,44,0
+85,Entre Ríos,NEA,2017,2,18,0
+86,Entre Ríos,NEA,2017,3,66,0
+87,Entre Ríos,NEA,2017,4,137,0
+88,Entre Ríos,NEA,2017,5,52,0
+89,Entre Ríos,NEA,2017,6,100,0
+90,Entre Ríos,NEA,2017,7,290,0
+91,Entre Ríos,NEA,2017,8,180,0
+92,Entre Ríos,NEA,2017,9,90,0
+93,Entre Ríos,NEA,2017,10,105,0
+94,Entre Ríos,NEA,2017,11,236,0
+95,Entre Ríos,NEA,2017,12,449,0
+96,Formosa,Norte,2017,1,856,0
+97,Formosa,Norte,2017,2,428,0
+98,Formosa,Norte,2017,3,180,0
+99,Formosa,Norte,2017,4,99,0
+100,Formosa,Norte,2017,5,7,0
+101,Formosa,Norte,2017,6,340,0
+102,Formosa,Norte,2017,7,3865,0
+103,Formosa,Norte,2017,8,7437,0
+104,Formosa,Norte,2017,9,4075,0
+105,Formosa,Norte,2017,10,2418,0
+106,Formosa,Norte,2017,11,2075,0
+107,Formosa,Norte,2017,12,1116,0
+108,Jujuy,NOA,2017,1,53,0
+109,Jujuy,NOA,2017,2,29,0
+110,Jujuy,NOA,2017,3,15,0
+111,Jujuy,NOA,2017,4,10,0
+112,Jujuy,NOA,2017,5,12,0
+113,Jujuy,NOA,2017,6,146,0
+114,Jujuy,NOA,2017,7,153,0
+115,Jujuy,NOA,2017,8,266,0
+116,Jujuy,NOA,2017,9,126,0
+117,Jujuy,NOA,2017,10,261,0
+118,Jujuy,NOA,2017,11,195,0
+119,Jujuy,NOA,2017,12,64,0
+120,La Pampa,Pampeana,2017,1,19009,0
+121,La Pampa,Pampeana,2017,2,814,0
+122,La Pampa,Pampeana,2017,3,741,0
+123,La Pampa,Pampeana,2017,4,57,0
+124,La Pampa,Pampeana,2017,5,18,0
+125,La Pampa,Pampeana,2017,6,46,0
+126,La Pampa,Pampeana,2017,7,63,0
+127,La Pampa,Pampeana,2017,8,690,0
+128,La Pampa,Pampeana,2017,9,336,0
+129,La Pampa,Pampeana,2017,10,229,0
+130,La Pampa,Pampeana,2017,11,465,0
+131,La Pampa,Pampeana,2017,12,1512,0
+132,La Rioja,Centro,2017,1,94,0
+133,La Rioja,Centro,2017,2,14,0
+134,La Rioja,Centro,2017,3,9,0
+135,La Rioja,Centro,2017,4,18,0
+136,La Rioja,Centro,2017,5,27,0
+137,La Rioja,Centro,2017,6,61,0
+138,La Rioja,Centro,2017,7,64,0
+139,La Rioja,Centro,2017,8,318,0
+140,La Rioja,Centro,2017,9,1874,0
+141,La Rioja,Centro,2017,10,2306,0
+142,La Rioja,Centro,2017,11,1389,0
+143,La Rioja,Centro,2017,12,66,0
+144,Mendoza,Pampeana,2017,1,1903,0
+145,Mendoza,Pampeana,2017,2,371,0
+146,Mendoza,Pampeana,2017,3,200,0
+147,Mendoza,Pampeana,2017,4,90,0
+148,Mendoza,Pampeana,2017,5,83,0
+149,Mendoza,Pampeana,2017,6,291,0
+150,Mendoza,Pampeana,2017,7,493,0
+151,Mendoza,Pampeana,2017,8,940,0
+152,Mendoza,Pampeana,2017,9,583,0
+153,Mendoza,Pampeana,2017,10,433,0
+154,Mendoza,Pampeana,2017,11,545,0
+155,Mendoza,Pampeana,2017,12,309,0
+156,Misiones,NEA,2017,1,99,0
+157,Misiones,NEA,2017,2,109,0
+158,Misiones,NEA,2017,3,140,0
+159,Misiones,NEA,2017,4,97,0
+160,Misiones,NEA,2017,5,16,0
+161,Misiones,NEA,2017,6,244,0
+162,Misiones,NEA,2017,7,1961,0
+163,Misiones,NEA,2017,8,1358,0
+164,Misiones,NEA,2017,9,853,0
+165,Misiones,NEA,2017,10,117,0
+166,Misiones,NEA,2017,11,308,0
+167,Misiones,NEA,2017,12,167,0
+168,Neuquén,Pampeana,2017,1,429,0
+169,Neuquén,Pampeana,2017,2,286,0
+170,Neuquén,Pampeana,2017,3,266,0
+171,Neuquén,Pampeana,2017,4,208,0
+172,Neuquén,Pampeana,2017,5,121,0
+173,Neuquén,Pampeana,2017,6,85,0
+174,Neuquén,Pampeana,2017,7,131,0
+175,Neuquén,Pampeana,2017,8,197,0
+176,Neuquén,Pampeana,2017,9,198,0
+177,Neuquén,Pampeana,2017,10,98,0
+178,Neuquén,Pampeana,2017,11,176,0
+179,Neuquén,Pampeana,2017,12,196,0
+180,Río Negro,Pampeana,2017,1,2936,0
+181,Río Negro,Pampeana,2017,2,3505,0
+182,Río Negro,Pampeana,2017,3,574,0
+183,Río Negro,Pampeana,2017,4,43,0
+184,Río Negro,Pampeana,2017,5,26,0
+185,Río Negro,Pampeana,2017,6,55,0
+186,Río Negro,Pampeana,2017,7,87,0
+187,Río Negro,Pampeana,2017,8,381,0
+188,Río Negro,Pampeana,2017,9,310,0
+189,Río Negro,Pampeana,2017,10,156,0
+190,Río Negro,Pampeana,2017,11,166,0
+191,Río Negro,Pampeana,2017,12,1292,0
+192,Salta,NOA,2017,1,518,0
+193,Salta,NOA,2017,2,171,0
+194,Salta,NOA,2017,3,18,0
+195,Salta,NOA,2017,4,13,0
+196,Salta,NOA,2017,5,30,0
+197,Salta,NOA,2017,6,207,0
+198,Salta,NOA,2017,7,449,0
+199,Salta,NOA,2017,8,1645,0
+200,Salta,NOA,2017,9,2901,0
+201,Salta,NOA,2017,10,2048,0
+202,Salta,NOA,2017,11,2302,0
+203,Salta,NOA,2017,12,551,0
+204,San Juan,Centro,2017,1,266,0
+205,San Juan,Centro,2017,2,24,0
+206,San Juan,Centro,2017,3,32,0
+207,San Juan,Centro,2017,4,16,0
+208,San Juan,Centro,2017,5,33,0
+209,San Juan,Centro,2017,6,121,0
+210,San Juan,Centro,2017,7,138,0
+211,San Juan,Centro,2017,8,205,0
+212,San Juan,Centro,2017,9,207,0
+213,San Juan,Centro,2017,10,233,0
+214,San Juan,Centro,2017,11,839,0
+215,San Juan,Centro,2017,12,11,0
+216,San Luis,Centro,2017,1,1461,0
+217,San Luis,Centro,2017,2,81,0
+218,San Luis,Centro,2017,3,72,0
+219,San Luis,Centro,2017,4,12,0
+220,San Luis,Centro,2017,5,11,0
+221,San Luis,Centro,2017,6,96,0
+222,San Luis,Centro,2017,7,86,0
+223,San Luis,Centro,2017,8,410,0
+224,San Luis,Centro,2017,9,436,0
+225,San Luis,Centro,2017,10,2886,0
+226,San Luis,Centro,2017,11,473,0
+227,San Luis,Centro,2017,12,234,0
+228,Santa Cruz,Pampeana,2017,1,21,0
+229,Santa Cruz,Pampeana,2017,2,29,0
+230,Santa Cruz,Pampeana,2017,3,13,0
+231,Santa Cruz,Pampeana,2017,4,12,0
+232,Santa Cruz,Pampeana,2017,5,10,0
+233,Santa Cruz,Pampeana,2017,6,8,0
+234,Santa Cruz,Pampeana,2017,7,14,0
+235,Santa Cruz,Pampeana,2017,8,10,0
+236,Santa Cruz,Pampeana,2017,9,33,0
+237,Santa Cruz,Pampeana,2017,10,19,0
+238,Santa Cruz,Pampeana,2017,11,11,0
+239,Santa Cruz,Pampeana,2017,12,35,0
+240,Santa Fe,,2017,1,262,0
+241,Santa Fe,,2017,2,204,0
+242,Santa Fe,,2017,3,304,0
+243,Santa Fe,,2017,4,636,0
+244,Santa Fe,,2017,5,384,0
+245,Santa Fe,,2017,6,1350,0
+246,Santa Fe,,2017,7,3316,0
+247,Santa Fe,,2017,8,3792,0
+248,Santa Fe,,2017,9,1815,0
+249,Santa Fe,,2017,10,1256,0
+250,Santa Fe,,2017,11,2308,0
+251,Santa Fe,,2017,12,1855,0
+252,Santiago del Estero,,2017,1,296,0
+253,Santiago del Estero,,2017,2,133,0
+254,Santiago del Estero,,2017,3,281,0
+255,Santiago del Estero,,2017,4,264,0
+256,Santiago del Estero,,2017,5,198,0
+257,Santiago del Estero,,2017,6,966,0
+258,Santiago del Estero,,2017,7,3105,0
+259,Santiago del Estero,,2017,8,4642,0
+260,Santiago del Estero,,2017,9,4429,0
+261,Santiago del Estero,,2017,10,2173,0
+262,Santiago del Estero,,2017,11,1918,0
+263,Santiago del Estero,,2017,12,501,0
+264,Tierra del Fuego,,2017,1,4,0
+265,Tierra del Fuego,,2017,2,9,0
+266,Tierra del Fuego,,2017,3,10,0
+267,Tierra del Fuego,,2017,4,2,0
+268,Tierra del Fuego,,2017,5,16,0
+269,Tierra del Fuego,,2017,6,11,0
+270,Tierra del Fuego,,2017,7,7,0
+271,Tierra del Fuego,,2017,8,6,0
+272,Tierra del Fuego,,2017,9,105,0
+273,Tierra del Fuego,,2017,10,0,0
+274,Tierra del Fuego,,2017,11,2,0
+275,Tierra del Fuego,,2017,12,6,0
+276,Tucumán,NOA,2017,1,44,0
+277,Tucumán,NOA,2017,2,20,0
+278,Tucumán,NOA,2017,3,8,0
+279,Tucumán,NOA,2017,4,3,0
+280,Tucumán,NOA,2017,5,4,0
+281,Tucumán,NOA,2017,6,106,0
+282,Tucumán,NOA,2017,7,570,0
+283,Tucumán,NOA,2017,8,1412,0
+284,Tucumán,NOA,2017,9,1088,0
+285,Tucumán,NOA,2017,10,542,0
+286,Tucumán,NOA,2017,11,152,0
+287,Tucumán,NOA,2017,12,34,0
+288,Buenos Aires,Pampeana,2018,1,864,0
+289,Buenos Aires,Pampeana,2018,2,2014,0
+290,Buenos Aires,Pampeana,2018,3,1291,0
+291,Buenos Aires,Pampeana,2018,4,405,0
+292,Buenos Aires,Pampeana,2018,5,268,0
+293,Buenos Aires,Pampeana,2018,6,559,0
+294,Buenos Aires,Pampeana,2018,7,297,0
+295,Buenos Aires,Pampeana,2018,8,1154,0
+296,Buenos Aires,Pampeana,2018,9,898,0
+297,Buenos Aires,Pampeana,2018,10,582,0
+298,Buenos Aires,Pampeana,2018,11,391,0
+299,Buenos Aires,Pampeana,2018,12,440,0
+300,Catamarca,NOA,2018,1,29,0
+301,Catamarca,NOA,2018,2,11,0
+302,Catamarca,NOA,2018,3,36,0
+303,Catamarca,NOA,2018,4,15,0
+304,Catamarca,NOA,2018,5,29,0
+305,Catamarca,NOA,2018,6,86,0
+306,Catamarca,NOA,2018,7,65,0
+307,Catamarca,NOA,2018,8,191,0
+308,Catamarca,NOA,2018,9,382,0
+309,Catamarca,NOA,2018,10,49,0
+310,Catamarca,NOA,2018,11,70,0
+311,Catamarca,NOA,2018,12,30,0
+312,Chaco,Norte,2018,1,670,0
+313,Chaco,Norte,2018,2,132,0
+314,Chaco,Norte,2018,3,179,0
+315,Chaco,Norte,2018,4,603,0
+316,Chaco,Norte,2018,5,149,0
+317,Chaco,Norte,2018,6,348,0
+318,Chaco,Norte,2018,7,873,0
+319,Chaco,Norte,2018,8,5448,0
+320,Chaco,Norte,2018,9,3717,0
+321,Chaco,Norte,2018,10,564,0
+322,Chaco,Norte,2018,11,217,0
+323,Chaco,Norte,2018,12,354,0
+324,Chubut,Pampeana,2018,1,34,0
+325,Chubut,Pampeana,2018,2,99,0
+326,Chubut,Pampeana,2018,3,15,0
+327,Chubut,Pampeana,2018,4,10,0
+328,Chubut,Pampeana,2018,5,6,0
+329,Chubut,Pampeana,2018,6,12,0
+330,Chubut,Pampeana,2018,7,10,0
+331,Chubut,Pampeana,2018,8,20,0
+332,Chubut,Pampeana,2018,9,2,0
+333,Chubut,Pampeana,2018,10,14,0
+334,Chubut,Pampeana,2018,11,13,0
+335,Chubut,Pampeana,2018,12,11,0
+336,CABA,Pampeana,2018,1,0,0
+337,CABA,Pampeana,2018,2,0,0
+338,CABA,Pampeana,2018,3,1,0
+339,CABA,Pampeana,2018,4,0,0
+340,CABA,Pampeana,2018,5,0,0
+341,CABA,Pampeana,2018,6,1,0
+342,CABA,Pampeana,2018,7,0,0
+343,CABA,Pampeana,2018,8,0,0
+344,CABA,Pampeana,2018,9,0,0
+345,CABA,Pampeana,2018,10,0,0
+346,CABA,Pampeana,2018,11,0,0
+347,CABA,Pampeana,2018,12,0,0
+348,Corrientes,NEA,2018,1,1139,0
+349,Corrientes,NEA,2018,2,786,0
+350,Corrientes,NEA,2018,3,1112,0
+351,Corrientes,NEA,2018,4,873,0
+352,Corrientes,NEA,2018,5,345,0
+353,Corrientes,NEA,2018,6,439,0
+354,Corrientes,NEA,2018,7,726,0
+355,Corrientes,NEA,2018,8,5159,0
+356,Corrientes,NEA,2018,9,2319,0
+357,Corrientes,NEA,2018,10,460,0
+358,Corrientes,NEA,2018,11,184,0
+359,Corrientes,NEA,2018,12,174,0
+360,Córdoba,Centro,2018,1,140,0
+361,Córdoba,Centro,2018,2,237,0
+362,Córdoba,Centro,2018,3,441,0
+363,Córdoba,Centro,2018,4,131,0
+364,Córdoba,Centro,2018,5,56,0
+365,Córdoba,Centro,2018,6,145,0
+366,Córdoba,Centro,2018,7,229,0
+367,Córdoba,Centro,2018,8,694,0
+368,Córdoba,Centro,2018,9,529,0
+369,Córdoba,Centro,2018,10,458,0
+370,Córdoba,Centro,2018,11,89,0
+371,Córdoba,Centro,2018,12,92,0
+372,Entre Ríos,NEA,2018,1,782,0
+373,Entre Ríos,NEA,2018,2,1090,0
+374,Entre Ríos,NEA,2018,3,807,0
+375,Entre Ríos,NEA,2018,4,204,0
+376,Entre Ríos,NEA,2018,5,76,0
+377,Entre Ríos,NEA,2018,6,174,0
+378,Entre Ríos,NEA,2018,7,148,0
+379,Entre Ríos,NEA,2018,8,1459,0
+380,Entre Ríos,NEA,2018,9,1202,0
+381,Entre Ríos,NEA,2018,10,586,0
+382,Entre Ríos,NEA,2018,11,156,0
+383,Entre Ríos,NEA,2018,12,120,0
+384,Formosa,Norte,2018,1,241,0
+385,Formosa,Norte,2018,2,295,0
+386,Formosa,Norte,2018,3,91,0
+387,Formosa,Norte,2018,4,1390,0
+388,Formosa,Norte,2018,5,900,0
+389,Formosa,Norte,2018,6,547,0
+390,Formosa,Norte,2018,7,788,0
+391,Formosa,Norte,2018,8,10231,0
+392,Formosa,Norte,2018,9,4946,0
+393,Formosa,Norte,2018,10,294,0
+394,Formosa,Norte,2018,11,80,0
+395,Formosa,Norte,2018,12,341,0
+396,Jujuy,NOA,2018,1,10,0
+397,Jujuy,NOA,2018,2,20,0
+398,Jujuy,NOA,2018,3,5,0
+399,Jujuy,NOA,2018,4,2,0
+400,Jujuy,NOA,2018,5,15,0
+401,Jujuy,NOA,2018,6,97,0
+402,Jujuy,NOA,2018,7,53,0
+403,Jujuy,NOA,2018,8,174,0
+404,Jujuy,NOA,2018,9,200,0
+405,Jujuy,NOA,2018,10,128,0
+406,Jujuy,NOA,2018,11,59,0
+407,Jujuy,NOA,2018,12,39,0
+408,La Pampa,Pampeana,2018,1,7739,0
+409,La Pampa,Pampeana,2018,2,2804,0
+410,La Pampa,Pampeana,2018,3,946,0
+411,La Pampa,Pampeana,2018,4,208,0
+412,La Pampa,Pampeana,2018,5,42,0
+413,La Pampa,Pampeana,2018,6,68,0
+414,La Pampa,Pampeana,2018,7,127,0
+415,La Pampa,Pampeana,2018,8,826,0
+416,La Pampa,Pampeana,2018,9,597,0
+417,La Pampa,Pampeana,2018,10,314,0
+418,La Pampa,Pampeana,2018,11,28,0
+419,La Pampa,Pampeana,2018,12,664,0
+420,La Rioja,Centro,2018,1,23,0
+421,La Rioja,Centro,2018,2,29,0
+422,La Rioja,Centro,2018,3,30,0
+423,La Rioja,Centro,2018,4,26,0
+424,La Rioja,Centro,2018,5,74,0
+425,La Rioja,Centro,2018,6,67,0
+426,La Rioja,Centro,2018,7,42,0
+427,La Rioja,Centro,2018,8,151,0
+428,La Rioja,Centro,2018,9,109,0
+429,La Rioja,Centro,2018,10,66,0
+430,La Rioja,Centro,2018,11,41,0
+431,La Rioja,Centro,2018,12,9,0
+432,Mendoza,Pampeana,2018,1,4607,0
+433,Mendoza,Pampeana,2018,2,272,0
+434,Mendoza,Pampeana,2018,3,250,0
+435,Mendoza,Pampeana,2018,4,164,0
+436,Mendoza,Pampeana,2018,5,113,0
+437,Mendoza,Pampeana,2018,6,175,0
+438,Mendoza,Pampeana,2018,7,294,0
+439,Mendoza,Pampeana,2018,8,998,0
+440,Mendoza,Pampeana,2018,9,840,0
+441,Mendoza,Pampeana,2018,10,432,0
+442,Mendoza,Pampeana,2018,11,185,0
+443,Mendoza,Pampeana,2018,12,311,0
+444,Misiones,NEA,2018,1,52,0
+445,Misiones,NEA,2018,2,265,0
+446,Misiones,NEA,2018,3,201,0
+447,Misiones,NEA,2018,4,561,0
+448,Misiones,NEA,2018,5,411,0
+449,Misiones,NEA,2018,6,161,0
+450,Misiones,NEA,2018,7,838,0
+451,Misiones,NEA,2018,8,1685,0
+452,Misiones,NEA,2018,9,806,0
+453,Misiones,NEA,2018,10,126,0
+454,Misiones,NEA,2018,11,99,0
+455,Misiones,NEA,2018,12,218,0
+456,Neuquén,Pampeana,2018,1,319,0
+457,Neuquén,Pampeana,2018,2,204,0
+458,Neuquén,Pampeana,2018,3,287,0
+459,Neuquén,Pampeana,2018,4,184,0
+460,Neuquén,Pampeana,2018,5,128,0
+461,Neuquén,Pampeana,2018,6,153,0
+462,Neuquén,Pampeana,2018,7,176,0
+463,Neuquén,Pampeana,2018,8,491,0
+464,Neuquén,Pampeana,2018,9,366,0
+465,Neuquén,Pampeana,2018,10,314,0
+466,Neuquén,Pampeana,2018,11,259,0
+467,Neuquén,Pampeana,2018,12,288,0
+468,Río Negro,Pampeana,2018,1,1290,0
+469,Río Negro,Pampeana,2018,2,736,0
+470,Río Negro,Pampeana,2018,3,445,0
+471,Río Negro,Pampeana,2018,4,186,0
+472,Río Negro,Pampeana,2018,5,31,0
+473,Río Negro,Pampeana,2018,6,46,0
+474,Río Negro,Pampeana,2018,7,46,0
+475,Río Negro,Pampeana,2018,8,221,0
+476,Río Negro,Pampeana,2018,9,266,0
+477,Río Negro,Pampeana,2018,10,111,0
+478,Río Negro,Pampeana,2018,11,81,0
+479,Río Negro,Pampeana,2018,12,189,0
+480,Salta,NOA,2018,1,202,0
+481,Salta,NOA,2018,2,74,0
+482,Salta,NOA,2018,3,57,0
+483,Salta,NOA,2018,4,138,0
+484,Salta,NOA,2018,5,168,0
+485,Salta,NOA,2018,6,239,0
+486,Salta,NOA,2018,7,236,0
+487,Salta,NOA,2018,8,2244,0
+488,Salta,NOA,2018,9,3021,0
+489,Salta,NOA,2018,10,905,0
+490,Salta,NOA,2018,11,299,0
+491,Salta,NOA,2018,12,198,0
+492,San Juan,Centro,2018,1,29,0
+493,San Juan,Centro,2018,2,27,0
+494,San Juan,Centro,2018,3,66,0
+495,San Juan,Centro,2018,4,35,0
+496,San Juan,Centro,2018,5,51,0
+497,San Juan,Centro,2018,6,116,0
+498,San Juan,Centro,2018,7,179,0
+499,San Juan,Centro,2018,8,279,0
+500,San Juan,Centro,2018,9,515,0
+501,San Juan,Centro,2018,10,616,0
+502,San Juan,Centro,2018,11,102,0
+503,San Juan,Centro,2018,12,30,0
+504,San Luis,Centro,2018,1,518,0
+505,San Luis,Centro,2018,2,213,0
+506,San Luis,Centro,2018,3,687,0
+507,San Luis,Centro,2018,4,20,0
+508,San Luis,Centro,2018,5,142,0
+509,San Luis,Centro,2018,6,92,0
+510,San Luis,Centro,2018,7,122,0
+511,San Luis,Centro,2018,8,1718,0
+512,San Luis,Centro,2018,9,238,0
+513,San Luis,Centro,2018,10,886,0
+514,San Luis,Centro,2018,11,149,0
+515,San Luis,Centro,2018,12,380,0
+516,Santa Cruz,Pampeana,2018,1,34,0
+517,Santa Cruz,Pampeana,2018,2,83,0
+518,Santa Cruz,Pampeana,2018,3,30,0
+519,Santa Cruz,Pampeana,2018,4,47,0
+520,Santa Cruz,Pampeana,2018,5,102,0
+521,Santa Cruz,Pampeana,2018,6,14,0
+522,Santa Cruz,Pampeana,2018,7,25,0
+523,Santa Cruz,Pampeana,2018,8,24,0
+524,Santa Cruz,Pampeana,2018,9,27,0
+525,Santa Cruz,Pampeana,2018,10,26,0
+526,Santa Cruz,Pampeana,2018,11,31,0
+527,Santa Cruz,Pampeana,2018,12,50,0
+528,Santa Fe,,2018,1,2364,0
+529,Santa Fe,,2018,2,3206,0
+530,Santa Fe,,2018,3,3597,0
+531,Santa Fe,,2018,4,2423,0
+532,Santa Fe,,2018,5,532,0
+533,Santa Fe,,2018,6,1602,0
+534,Santa Fe,,2018,7,1814,0
+535,Santa Fe,,2018,8,8264,0
+536,Santa Fe,,2018,9,4210,0
+537,Santa Fe,,2018,10,1176,0
+538,Santa Fe,,2018,11,748,0
+539,Santa Fe,,2018,12,817,0
+540,Santiago del Estero,,2018,1,434,0
+541,Santiago del Estero,,2018,2,564,0
+542,Santiago del Estero,,2018,3,970,0
+543,Santiago del Estero,,2018,4,812,0
+544,Santiago del Estero,,2018,5,135,0
+545,Santiago del Estero,,2018,6,485,0
+546,Santiago del Estero,,2018,7,1159,0
+547,Santiago del Estero,,2018,8,5560,0
+548,Santiago del Estero,,2018,9,3565,0
+549,Santiago del Estero,,2018,10,799,0
+550,Santiago del Estero,,2018,11,397,0
+551,Santiago del Estero,,2018,12,259,0
+552,Tierra del Fuego,,2018,1,10,0
+553,Tierra del Fuego,,2018,2,7,0
+554,Tierra del Fuego,,2018,3,15,0
+555,Tierra del Fuego,,2018,4,2,0
+556,Tierra del Fuego,,2018,5,2,0
+557,Tierra del Fuego,,2018,6,8,0
+558,Tierra del Fuego,,2018,7,6,0
+559,Tierra del Fuego,,2018,8,14,0
+560,Tierra del Fuego,,2018,9,13,0
+561,Tierra del Fuego,,2018,10,8,0
+562,Tierra del Fuego,,2018,11,22,0
+563,Tierra del Fuego,,2018,12,9,0
+564,Tucumán,NOA,2018,1,8,0
+565,Tucumán,NOA,2018,2,11,0
+566,Tucumán,NOA,2018,3,18,0
+567,Tucumán,NOA,2018,4,20,0
+568,Tucumán,NOA,2018,5,33,0
+569,Tucumán,NOA,2018,6,389,0
+570,Tucumán,NOA,2018,7,691,0
+571,Tucumán,NOA,2018,8,2044,0
+572,Tucumán,NOA,2018,9,1432,0
+573,Tucumán,NOA,2018,10,206,0
+574,Tucumán,NOA,2018,11,38,0
+575,Tucumán,NOA,2018,12,16,0
+576,Buenos Aires,Pampeana,2019,1,827,0
+577,Buenos Aires,Pampeana,2019,2,816,0
+578,Buenos Aires,Pampeana,2019,3,519,0
+579,Buenos Aires,Pampeana,2019,4,574,0
+580,Buenos Aires,Pampeana,2019,5,389,0
+581,Buenos Aires,Pampeana,2019,6,320,0
+582,Buenos Aires,Pampeana,2019,7,571,0
+583,Buenos Aires,Pampeana,2019,8,1145,0
+584,Buenos Aires,Pampeana,2019,9,1473,0
+585,Buenos Aires,Pampeana,2019,10,492,0
+586,Buenos Aires,Pampeana,2019,11,479,0
+587,Buenos Aires,Pampeana,2019,12,681,0
+588,Catamarca,NOA,2019,1,22,0
+589,Catamarca,NOA,2019,2,10,0
+590,Catamarca,NOA,2019,3,26,0
+591,Catamarca,NOA,2019,4,12,0
+592,Catamarca,NOA,2019,5,27,0
+593,Catamarca,NOA,2019,6,58,0
+594,Catamarca,NOA,2019,7,39,0
+595,Catamarca,NOA,2019,8,217,0
+596,Catamarca,NOA,2019,9,252,0
+597,Catamarca,NOA,2019,10,284,0
+598,Catamarca,NOA,2019,11,103,0
+599,Catamarca,NOA,2019,12,117,0
+600,Chaco,Norte,2019,1,50,0
+601,Chaco,Norte,2019,2,155,0
+602,Chaco,Norte,2019,3,234,0
+603,Chaco,Norte,2019,4,67,0
+604,Chaco,Norte,2019,5,22,0
+605,Chaco,Norte,2019,6,286,0
+606,Chaco,Norte,2019,7,852,0
+607,Chaco,Norte,2019,8,4114,0
+608,Chaco,Norte,2019,9,5541,0
+609,Chaco,Norte,2019,10,2315,0
+610,Chaco,Norte,2019,11,667,0
+611,Chaco,Norte,2019,12,898,0
+612,Chubut,Pampeana,2019,1,129,0
+613,Chubut,Pampeana,2019,2,574,0
+614,Chubut,Pampeana,2019,3,15,0
+615,Chubut,Pampeana,2019,4,17,0
+616,Chubut,Pampeana,2019,5,12,0
+617,Chubut,Pampeana,2019,6,7,0
+618,Chubut,Pampeana,2019,7,12,0
+619,Chubut,Pampeana,2019,8,36,0
+620,Chubut,Pampeana,2019,9,27,0
+621,Chubut,Pampeana,2019,10,32,0
+622,Chubut,Pampeana,2019,11,52,0
+623,Chubut,Pampeana,2019,12,8,0
+624,CABA,Pampeana,2019,1,0,0
+625,CABA,Pampeana,2019,2,0,0
+626,CABA,Pampeana,2019,3,0,0
+627,CABA,Pampeana,2019,4,0,0
+628,CABA,Pampeana,2019,5,0,0
+629,CABA,Pampeana,2019,6,0,0
+630,CABA,Pampeana,2019,7,0,0
+631,CABA,Pampeana,2019,8,0,0
+632,CABA,Pampeana,2019,9,1,0
+633,CABA,Pampeana,2019,10,0,0
+634,CABA,Pampeana,2019,11,0,0
+635,CABA,Pampeana,2019,12,0,0
+636,Corrientes,NEA,2019,1,36,0
+637,Corrientes,NEA,2019,2,406,0
+638,Corrientes,NEA,2019,3,865,0
+639,Corrientes,NEA,2019,4,575,0
+640,Corrientes,NEA,2019,5,94,0
+641,Corrientes,NEA,2019,6,505,0
+642,Corrientes,NEA,2019,7,2569,0
+643,Corrientes,NEA,2019,8,6516,0
+644,Corrientes,NEA,2019,9,3815,0
+645,Corrientes,NEA,2019,10,1086,0
+646,Corrientes,NEA,2019,11,172,0
+647,Corrientes,NEA,2019,12,318,0
+648,Córdoba,Centro,2019,1,74,0
+649,Córdoba,Centro,2019,2,52,0
+650,Córdoba,Centro,2019,3,53,0
+651,Córdoba,Centro,2019,4,48,0
+652,Córdoba,Centro,2019,5,28,0
+653,Córdoba,Centro,2019,6,143,0
+654,Córdoba,Centro,2019,7,191,0
+655,Córdoba,Centro,2019,8,550,0
+656,Córdoba,Centro,2019,9,1331,0
+657,Córdoba,Centro,2019,10,122,0
+658,Córdoba,Centro,2019,11,257,0
+659,Córdoba,Centro,2019,12,292,0
+660,Entre Ríos,NEA,2019,1,7,0
+661,Entre Ríos,NEA,2019,2,56,0
+662,Entre Ríos,NEA,2019,3,139,0
+663,Entre Ríos,NEA,2019,4,83,0
+664,Entre Ríos,NEA,2019,5,33,0
+665,Entre Ríos,NEA,2019,6,42,0
+666,Entre Ríos,NEA,2019,7,174,0
+667,Entre Ríos,NEA,2019,8,372,0
+668,Entre Ríos,NEA,2019,9,735,0
+669,Entre Ríos,NEA,2019,10,4640,0
+670,Entre Ríos,NEA,2019,11,83,0
+671,Entre Ríos,NEA,2019,12,197,0
+672,Formosa,Norte,2019,1,508,0
+673,Formosa,Norte,2019,2,1673,0
+674,Formosa,Norte,2019,3,1067,0
+675,Formosa,Norte,2019,4,76,0
+676,Formosa,Norte,2019,5,16,0
+677,Formosa,Norte,2019,6,251,0
+678,Formosa,Norte,2019,7,900,0
+679,Formosa,Norte,2019,8,3690,0
+680,Formosa,Norte,2019,9,6669,0
+681,Formosa,Norte,2019,10,267,0
+682,Formosa,Norte,2019,11,1786,0
+683,Formosa,Norte,2019,12,1553,0
+684,Jujuy,NOA,2019,1,11,0
+685,Jujuy,NOA,2019,2,4,0
+686,Jujuy,NOA,2019,3,4,0
+687,Jujuy,NOA,2019,4,6,0
+688,Jujuy,NOA,2019,5,8,0
+689,Jujuy,NOA,2019,6,61,0
+690,Jujuy,NOA,2019,7,116,0
+691,Jujuy,NOA,2019,8,171,0
+692,Jujuy,NOA,2019,9,234,0
+693,Jujuy,NOA,2019,10,409,0
+694,Jujuy,NOA,2019,11,156,0
+695,Jujuy,NOA,2019,12,81,0
+696,La Pampa,Pampeana,2019,1,1013,0
+697,La Pampa,Pampeana,2019,2,1266,0
+698,La Pampa,Pampeana,2019,3,326,0
+699,La Pampa,Pampeana,2019,4,183,0
+700,La Pampa,Pampeana,2019,5,20,0
+701,La Pampa,Pampeana,2019,6,30,0
+702,La Pampa,Pampeana,2019,7,95,0
+703,La Pampa,Pampeana,2019,8,934,0
+704,La Pampa,Pampeana,2019,9,606,0
+705,La Pampa,Pampeana,2019,10,215,0
+706,La Pampa,Pampeana,2019,11,146,0
+707,La Pampa,Pampeana,2019,12,1052,0
+708,La Rioja,Centro,2019,1,18,0
+709,La Rioja,Centro,2019,2,7,0
+710,La Rioja,Centro,2019,3,12,0
+711,La Rioja,Centro,2019,4,7,0
+712,La Rioja,Centro,2019,5,29,0
+713,La Rioja,Centro,2019,6,86,0
+714,La Rioja,Centro,2019,7,66,0
+715,La Rioja,Centro,2019,8,108,0
+716,La Rioja,Centro,2019,9,72,0
+717,La Rioja,Centro,2019,10,271,0
+718,La Rioja,Centro,2019,11,61,0
+719,La Rioja,Centro,2019,12,76,0
+720,Mendoza,Pampeana,2019,1,250,0
+721,Mendoza,Pampeana,2019,2,545,0
+722,Mendoza,Pampeana,2019,3,127,0
+723,Mendoza,Pampeana,2019,4,171,0
+724,Mendoza,Pampeana,2019,5,70,0
+725,Mendoza,Pampeana,2019,6,169,0
+726,Mendoza,Pampeana,2019,7,487,0
+727,Mendoza,Pampeana,2019,8,544,0
+728,Mendoza,Pampeana,2019,9,512,0
+729,Mendoza,Pampeana,2019,10,486,0
+730,Mendoza,Pampeana,2019,11,118,0
+731,Mendoza,Pampeana,2019,12,240,0
+732,Misiones,NEA,2019,1,118,0
+733,Misiones,NEA,2019,2,208,0
+734,Misiones,NEA,2019,3,308,0
+735,Misiones,NEA,2019,4,191,0
+736,Misiones,NEA,2019,5,26,0
+737,Misiones,NEA,2019,6,262,0
+738,Misiones,NEA,2019,7,322,0
+739,Misiones,NEA,2019,8,2398,0
+740,Misiones,NEA,2019,9,908,0
+741,Misiones,NEA,2019,10,479,0
+742,Misiones,NEA,2019,11,189,0
+743,Misiones,NEA,2019,12,143,0
+744,Neuquén,Pampeana,2019,1,343,0
+745,Neuquén,Pampeana,2019,2,353,0
+746,Neuquén,Pampeana,2019,3,67,0
+747,Neuquén,Pampeana,2019,4,539,0
+748,Neuquén,Pampeana,2019,5,65,0
+749,Neuquén,Pampeana,2019,6,16,0
+750,Neuquén,Pampeana,2019,7,34,0
+751,Neuquén,Pampeana,2019,8,91,0
+752,Neuquén,Pampeana,2019,9,769,0
+753,Neuquén,Pampeana,2019,10,479,0
+754,Neuquén,Pampeana,2019,11,560,0
+755,Neuquén,Pampeana,2019,12,956,0
+756,Río Negro,Pampeana,2019,1,612,0
+757,Río Negro,Pampeana,2019,2,1279,0
+758,Río Negro,Pampeana,2019,3,845,0
+759,Río Negro,Pampeana,2019,4,307,0
+760,Río Negro,Pampeana,2019,5,50,0
+761,Río Negro,Pampeana,2019,6,36,0
+762,Río Negro,Pampeana,2019,7,189,0
+763,Río Negro,Pampeana,2019,8,263,0
+764,Río Negro,Pampeana,2019,9,384,0
+765,Río Negro,Pampeana,2019,10,146,0
+766,Río Negro,Pampeana,2019,11,163,0
+767,Río Negro,Pampeana,2019,12,392,0
+768,Salta,NOA,2019,1,94,0
+769,Salta,NOA,2019,2,24,0
+770,Salta,NOA,2019,3,28,0
+771,Salta,NOA,2019,4,22,0
+772,Salta,NOA,2019,5,21,0
+773,Salta,NOA,2019,6,111,0
+774,Salta,NOA,2019,7,375,0
+775,Salta,NOA,2019,8,1806,0
+776,Salta,NOA,2019,9,3712,0
+777,Salta,NOA,2019,10,2481,0
+778,Salta,NOA,2019,11,1167,0
+779,Salta,NOA,2019,12,522,0
+780,San Juan,Centro,2019,1,50,0
+781,San Juan,Centro,2019,2,13,0
+782,San Juan,Centro,2019,3,21,0
+783,San Juan,Centro,2019,4,40,0
+784,San Juan,Centro,2019,5,44,0
+785,San Juan,Centro,2019,6,69,0
+786,San Juan,Centro,2019,7,173,0
+787,San Juan,Centro,2019,8,235,0
+788,San Juan,Centro,2019,9,315,0
+789,San Juan,Centro,2019,10,71,0
+790,San Juan,Centro,2019,11,61,0
+791,San Juan,Centro,2019,12,111,0
+792,San Luis,Centro,2019,1,36,0
+793,San Luis,Centro,2019,2,50,0
+794,San Luis,Centro,2019,3,328,0
+795,San Luis,Centro,2019,4,19,0
+796,San Luis,Centro,2019,5,12,0
+797,San Luis,Centro,2019,6,30,0
+798,San Luis,Centro,2019,7,115,0
+799,San Luis,Centro,2019,8,695,0
+800,San Luis,Centro,2019,9,355,0
+801,San Luis,Centro,2019,10,277,0
+802,San Luis,Centro,2019,11,441,0
+803,San Luis,Centro,2019,12,223,0
+804,Santa Cruz,Pampeana,2019,1,43,0
+805,Santa Cruz,Pampeana,2019,2,108,0
+806,Santa Cruz,Pampeana,2019,3,29,0
+807,Santa Cruz,Pampeana,2019,4,17,0
+808,Santa Cruz,Pampeana,2019,5,16,0
+809,Santa Cruz,Pampeana,2019,6,15,0
+810,Santa Cruz,Pampeana,2019,7,21,0
+811,Santa Cruz,Pampeana,2019,8,40,0
+812,Santa Cruz,Pampeana,2019,9,25,0
+813,Santa Cruz,Pampeana,2019,10,72,0
+814,Santa Cruz,Pampeana,2019,11,48,0
+815,Santa Cruz,Pampeana,2019,12,15,0
+816,Santa Fe,,2019,1,63,0
+817,Santa Fe,,2019,2,252,0
+818,Santa Fe,,2019,3,285,0
+819,Santa Fe,,2019,4,331,0
+820,Santa Fe,,2019,5,172,0
+821,Santa Fe,,2019,6,508,0
+822,Santa Fe,,2019,7,1428,0
+823,Santa Fe,,2019,8,4702,0
+824,Santa Fe,,2019,9,4670,0
+825,Santa Fe,,2019,10,1263,0
+826,Santa Fe,,2019,11,604,0
+827,Santa Fe,,2019,12,744,0
+828,Santiago del Estero,,2019,1,79,0
+829,Santiago del Estero,,2019,2,145,0
+830,Santiago del Estero,,2019,3,111,0
+831,Santiago del Estero,,2019,4,62,0
+832,Santiago del Estero,,2019,5,71,0
+833,Santiago del Estero,,2019,6,310,0
+834,Santiago del Estero,,2019,7,1302,0
+835,Santiago del Estero,,2019,8,4815,0
+836,Santiago del Estero,,2019,9,5413,0
+837,Santiago del Estero,,2019,10,2660,0
+838,Santiago del Estero,,2019,11,542,0
+839,Santiago del Estero,,2019,12,466,0
+840,Tierra del Fuego,,2019,1,4,0
+841,Tierra del Fuego,,2019,2,13,0
+842,Tierra del Fuego,,2019,3,5,0
+843,Tierra del Fuego,,2019,4,4,0
+844,Tierra del Fuego,,2019,5,18,0
+845,Tierra del Fuego,,2019,6,20,0
+846,Tierra del Fuego,,2019,7,20,0
+847,Tierra del Fuego,,2019,8,54,0
+848,Tierra del Fuego,,2019,9,2,0
+849,Tierra del Fuego,,2019,10,3,0
+850,Tierra del Fuego,,2019,11,32,0
+851,Tierra del Fuego,,2019,12,3,0
+852,Tucumán,NOA,2019,1,6,0
+853,Tucumán,NOA,2019,2,11,0
+854,Tucumán,NOA,2019,3,0,0
+855,Tucumán,NOA,2019,4,3,0
+856,Tucumán,NOA,2019,5,9,0
+857,Tucumán,NOA,2019,6,73,0
+858,Tucumán,NOA,2019,7,333,0
+859,Tucumán,NOA,2019,8,929,0
+860,Tucumán,NOA,2019,9,1010,0
+861,Tucumán,NOA,2019,10,591,0
+862,Tucumán,NOA,2019,11,56,0
+863,Tucumán,NOA,2019,12,92,0
+864,Buenos Aires,Pampeana,2020,1,522,0
+865,Buenos Aires,Pampeana,2020,2,620,0
+866,Buenos Aires,Pampeana,2020,3,457,0
+867,Buenos Aires,Pampeana,2020,4,470,0
+868,Buenos Aires,Pampeana,2020,5,483,0
+869,Buenos Aires,Pampeana,2020,6,454,0
+870,Buenos Aires,Pampeana,2020,7,897,0
+871,Buenos Aires,Pampeana,2020,8,2106,0
+872,Buenos Aires,Pampeana,2020,9,1755,0
+873,Buenos Aires,Pampeana,2020,10,826,0
+874,Buenos Aires,Pampeana,2020,11,696,0
+875,Buenos Aires,Pampeana,2020,12,837,0
+876,Catamarca,NOA,2020,1,22,0
+877,Catamarca,NOA,2020,2,19,0
+878,Catamarca,NOA,2020,3,105,0
+879,Catamarca,NOA,2020,4,13,0
+880,Catamarca,NOA,2020,5,43,0
+881,Catamarca,NOA,2020,6,120,0
+882,Catamarca,NOA,2020,7,227,0
+883,Catamarca,NOA,2020,8,973,0
+884,Catamarca,NOA,2020,9,292,0
+885,Catamarca,NOA,2020,10,318,0
+886,Catamarca,NOA,2020,11,134,0
+887,Catamarca,NOA,2020,12,72,0
+888,Chaco,Norte,2020,1,415,0
+889,Chaco,Norte,2020,2,953,0
+890,Chaco,Norte,2020,3,3129,0
+891,Chaco,Norte,2020,4,2297,0
+892,Chaco,Norte,2020,5,1585,0
+893,Chaco,Norte,2020,6,2761,0
+894,Chaco,Norte,2020,7,4060,0
+895,Chaco,Norte,2020,8,12880,0
+896,Chaco,Norte,2020,9,11064,0
+897,Chaco,Norte,2020,10,6365,0
+898,Chaco,Norte,2020,11,2187,0
+899,Chaco,Norte,2020,12,682,0
+900,Chubut,Pampeana,2020,1,27,0
+901,Chubut,Pampeana,2020,2,119,0
+902,Chubut,Pampeana,2020,3,40,0
+903,Chubut,Pampeana,2020,4,9,0
+904,Chubut,Pampeana,2020,5,11,0
+905,Chubut,Pampeana,2020,6,2,0
+906,Chubut,Pampeana,2020,7,3,0
+907,Chubut,Pampeana,2020,8,19,0
+908,Chubut,Pampeana,2020,9,14,0
+909,Chubut,Pampeana,2020,10,69,0
+910,Chubut,Pampeana,2020,11,18,0
+911,Chubut,Pampeana,2020,12,27,0
+912,CABA,Pampeana,2020,1,0,0
+913,CABA,Pampeana,2020,2,3,0
+914,CABA,Pampeana,2020,3,0,0
+915,CABA,Pampeana,2020,4,0,0
+916,CABA,Pampeana,2020,5,0,0
+917,CABA,Pampeana,2020,6,0,0
+918,CABA,Pampeana,2020,7,0,0
+919,CABA,Pampeana,2020,8,0,0
+920,CABA,Pampeana,2020,9,0,0
+921,CABA,Pampeana,2020,10,0,0
+922,CABA,Pampeana,2020,11,2,0
+923,CABA,Pampeana,2020,12,0,0
+924,Corrientes,NEA,2020,1,463,0
+925,Corrientes,NEA,2020,2,1567,0
+926,Corrientes,NEA,2020,3,2415,0
+927,Corrientes,NEA,2020,4,4140,0
+928,Corrientes,NEA,2020,5,2531,0
+929,Corrientes,NEA,2020,6,2222,0
+930,Corrientes,NEA,2020,7,4228,0
+931,Corrientes,NEA,2020,8,13705,0
+932,Corrientes,NEA,2020,9,4638,0
+933,Corrientes,NEA,2020,10,2268,0
+934,Corrientes,NEA,2020,11,3411,0
+935,Corrientes,NEA,2020,12,249,0
+936,Córdoba,Centro,2020,1,305,0
+937,Córdoba,Centro,2020,2,109,0
+938,Córdoba,Centro,2020,3,115,0
+939,Córdoba,Centro,2020,4,197,0
+940,Córdoba,Centro,2020,5,628,0
+941,Córdoba,Centro,2020,6,301,0
+942,Córdoba,Centro,2020,7,567,0
+943,Córdoba,Centro,2020,8,2916,0
+944,Córdoba,Centro,2020,9,5786,0
+945,Córdoba,Centro,2020,10,4204,0
+946,Córdoba,Centro,2020,11,540,0
+947,Córdoba,Centro,2020,12,202,0
+948,Entre Ríos,NEA,2020,1,140,0
+949,Entre Ríos,NEA,2020,2,602,0
+950,Entre Ríos,NEA,2020,3,690,0
+951,Entre Ríos,NEA,2020,4,721,0
+952,Entre Ríos,NEA,2020,5,1257,0
+953,Entre Ríos,NEA,2020,6,1387,0
+954,Entre Ríos,NEA,2020,7,6582,0
+955,Entre Ríos,NEA,2020,8,15842,0
+956,Entre Ríos,NEA,2020,9,5075,0
+957,Entre Ríos,NEA,2020,10,2926,0
+958,Entre Ríos,NEA,2020,11,2094,0
+959,Entre Ríos,NEA,2020,12,777,0
+960,Formosa,Norte,2020,1,1368,0
+961,Formosa,Norte,2020,2,2522,0
+962,Formosa,Norte,2020,3,8229,0
+963,Formosa,Norte,2020,4,4440,0
+964,Formosa,Norte,2020,5,3343,0
+965,Formosa,Norte,2020,6,2455,0
+966,Formosa,Norte,2020,7,4496,0
+967,Formosa,Norte,2020,8,18177,0
+968,Formosa,Norte,2020,9,12162,0
+969,Formosa,Norte,2020,10,17081,0
+970,Formosa,Norte,2020,11,2995,0
+971,Formosa,Norte,2020,12,328,0
+972,Jujuy,NOA,2020,1,19,0
+973,Jujuy,NOA,2020,2,4,0
+974,Jujuy,NOA,2020,3,9,0
+975,Jujuy,NOA,2020,4,5,0
+976,Jujuy,NOA,2020,5,27,0
+977,Jujuy,NOA,2020,6,87,0
+978,Jujuy,NOA,2020,7,129,0
+979,Jujuy,NOA,2020,8,262,0
+980,Jujuy,NOA,2020,9,419,0
+981,Jujuy,NOA,2020,10,1634,0
+982,Jujuy,NOA,2020,11,1401,0
+983,Jujuy,NOA,2020,12,29,0
+984,La Pampa,Pampeana,2020,1,19,0
+985,La Pampa,Pampeana,2020,2,104,0
+986,La Pampa,Pampeana,2020,3,87,0
+987,La Pampa,Pampeana,2020,4,98,0
+988,La Pampa,Pampeana,2020,5,70,0
+989,La Pampa,Pampeana,2020,6,41,0
+990,La Pampa,Pampeana,2020,7,62,0
+991,La Pampa,Pampeana,2020,8,719,0
+992,La Pampa,Pampeana,2020,9,369,0
+993,La Pampa,Pampeana,2020,10,78,0
+994,La Pampa,Pampeana,2020,11,87,0
+995,La Pampa,Pampeana,2020,12,699,0
+996,La Rioja,Centro,2020,1,57,0
+997,La Rioja,Centro,2020,2,34,0
+998,La Rioja,Centro,2020,3,21,0
+999,La Rioja,Centro,2020,4,18,0
+1000,La Rioja,Centro,2020,5,19,0
+1001,La Rioja,Centro,2020,6,55,0
+1002,La Rioja,Centro,2020,7,121,0
+1003,La Rioja,Centro,2020,8,359,0
+1004,La Rioja,Centro,2020,9,160,0
+1005,La Rioja,Centro,2020,10,263,0
+1006,La Rioja,Centro,2020,11,177,0
+1007,La Rioja,Centro,2020,12,56,0
+1008,Mendoza,Pampeana,2020,1,195,0
+1009,Mendoza,Pampeana,2020,2,202,0
+1010,Mendoza,Pampeana,2020,3,113,0
+1011,Mendoza,Pampeana,2020,4,76,0
+1012,Mendoza,Pampeana,2020,5,161,0
+1013,Mendoza,Pampeana,2020,6,141,0
+1014,Mendoza,Pampeana,2020,7,123,0
+1015,Mendoza,Pampeana,2020,8,555,0
+1016,Mendoza,Pampeana,2020,9,594,0
+1017,Mendoza,Pampeana,2020,10,351,0
+1018,Mendoza,Pampeana,2020,11,150,0
+1019,Mendoza,Pampeana,2020,12,304,0
+1020,Misiones,NEA,2020,1,69,0
+1021,Misiones,NEA,2020,2,177,0
+1022,Misiones,NEA,2020,3,422,0
+1023,Misiones,NEA,2020,4,590,0
+1024,Misiones,NEA,2020,5,253,0
+1025,Misiones,NEA,2020,6,477,0
+1026,Misiones,NEA,2020,7,415,0
+1027,Misiones,NEA,2020,8,2294,0
+1028,Misiones,NEA,2020,9,976,0
+1029,Misiones,NEA,2020,10,410,0
+1030,Misiones,NEA,2020,11,1142,0
+1031,Misiones,NEA,2020,12,229,0
+1032,Neuquén,Pampeana,2020,1,862,0
+1033,Neuquén,Pampeana,2020,2,704,0
+1034,Neuquén,Pampeana,2020,3,757,0
+1035,Neuquén,Pampeana,2020,4,918,0
+1036,Neuquén,Pampeana,2020,5,248,0
+1037,Neuquén,Pampeana,2020,6,232,0
+1038,Neuquén,Pampeana,2020,7,116,0
+1039,Neuquén,Pampeana,2020,8,511,0
+1040,Neuquén,Pampeana,2020,9,259,0
+1041,Neuquén,Pampeana,2020,10,614,0
+1042,Neuquén,Pampeana,2020,11,441,0
+1043,Neuquén,Pampeana,2020,12,692,0
+1044,Río Negro,Pampeana,2020,1,979,0
+1045,Río Negro,Pampeana,2020,2,625,0
+1046,Río Negro,Pampeana,2020,3,360,0
+1047,Río Negro,Pampeana,2020,4,246,0
+1048,Río Negro,Pampeana,2020,5,162,0
+1049,Río Negro,Pampeana,2020,6,108,0
+1050,Río Negro,Pampeana,2020,7,48,0
+1051,Río Negro,Pampeana,2020,8,320,0
+1052,Río Negro,Pampeana,2020,9,345,0
+1053,Río Negro,Pampeana,2020,10,214,0
+1054,Río Negro,Pampeana,2020,11,91,0
+1055,Río Negro,Pampeana,2020,12,395,0
+1056,Salta,NOA,2020,1,376,0
+1057,Salta,NOA,2020,2,225,0
+1058,Salta,NOA,2020,3,81,0
+1059,Salta,NOA,2020,4,79,0
+1060,Salta,NOA,2020,5,105,0
+1061,Salta,NOA,2020,6,306,0
+1062,Salta,NOA,2020,7,984,0
+1063,Salta,NOA,2020,8,2186,0
+1064,Salta,NOA,2020,9,4045,0
+1065,Salta,NOA,2020,10,5980,0
+1066,Salta,NOA,2020,11,2525,0
+1067,Salta,NOA,2020,12,649,0
+1068,San Juan,Centro,2020,1,55,0
+1069,San Juan,Centro,2020,2,37,0
+1070,San Juan,Centro,2020,3,27,0
+1071,San Juan,Centro,2020,4,51,0
+1072,San Juan,Centro,2020,5,83,0
+1073,San Juan,Centro,2020,6,66,0
+1074,San Juan,Centro,2020,7,95,0
+1075,San Juan,Centro,2020,8,418,0
+1076,San Juan,Centro,2020,9,219,0
+1077,San Juan,Centro,2020,10,176,0
+1078,San Juan,Centro,2020,11,228,0
+1079,San Juan,Centro,2020,12,117,0
+1080,San Luis,Centro,2020,1,145,0
+1081,San Luis,Centro,2020,2,69,0
+1082,San Luis,Centro,2020,3,338,0
+1083,San Luis,Centro,2020,4,7,0
+1084,San Luis,Centro,2020,5,160,0
+1085,San Luis,Centro,2020,6,37,0
+1086,San Luis,Centro,2020,7,79,0
+1087,San Luis,Centro,2020,8,481,0
+1088,San Luis,Centro,2020,9,2178,0
+1089,San Luis,Centro,2020,10,2168,0
+1090,San Luis,Centro,2020,11,1585,0
+1091,San Luis,Centro,2020,12,750,0
+1092,Santa Cruz,Pampeana,2020,1,33,0
+1093,Santa Cruz,Pampeana,2020,2,11,0
+1094,Santa Cruz,Pampeana,2020,3,23,0
+1095,Santa Cruz,Pampeana,2020,4,38,0
+1096,Santa Cruz,Pampeana,2020,5,9,0
+1097,Santa Cruz,Pampeana,2020,6,7,0
+1098,Santa Cruz,Pampeana,2020,7,7,0
+1099,Santa Cruz,Pampeana,2020,8,13,0
+1100,Santa Cruz,Pampeana,2020,9,16,0
+1101,Santa Cruz,Pampeana,2020,10,20,0
+1102,Santa Cruz,Pampeana,2020,11,14,0
+1103,Santa Cruz,Pampeana,2020,12,13,0
+1104,Santa Fe,,2020,1,851,0
+1105,Santa Fe,,2020,2,2580,0
+1106,Santa Fe,,2020,3,4459,0
+1107,Santa Fe,,2020,4,5348,0
+1108,Santa Fe,,2020,5,6277,0
+1109,Santa Fe,,2020,6,3928,0
+1110,Santa Fe,,2020,7,10957,0
+1111,Santa Fe,,2020,8,21846,0
+1112,Santa Fe,,2020,9,13475,0
+1113,Santa Fe,,2020,10,4937,0
+1114,Santa Fe,,2020,11,2631,0
+1115,Santa Fe,,2020,12,1448,0
+1116,Santiago del Estero,,2020,1,486,0
+1117,Santiago del Estero,,2020,2,443,0
+1118,Santiago del Estero,,2020,3,938,0
+1119,Santiago del Estero,,2020,4,825,0
+1120,Santiago del Estero,,2020,5,1611,0
+1121,Santiago del Estero,,2020,6,1542,0
+1122,Santiago del Estero,,2020,7,3654,0
+1123,Santiago del Estero,,2020,8,7360,0
+1124,Santiago del Estero,,2020,9,7421,0
+1125,Santiago del Estero,,2020,10,2711,0
+1126,Santiago del Estero,,2020,11,1730,0
+1127,Santiago del Estero,,2020,12,740,0
+1128,Tierra del Fuego,,2020,1,1,0
+1129,Tierra del Fuego,,2020,2,2,0
+1130,Tierra del Fuego,,2020,3,4,0
+1131,Tierra del Fuego,,2020,4,3,0
+1132,Tierra del Fuego,,2020,5,0,0
+1133,Tierra del Fuego,,2020,6,3,0
+1134,Tierra del Fuego,,2020,7,2,0
+1135,Tierra del Fuego,,2020,8,3,0
+1136,Tierra del Fuego,,2020,9,0,0
+1137,Tierra del Fuego,,2020,10,2,0
+1138,Tierra del Fuego,,2020,11,5,0
+1139,Tierra del Fuego,,2020,12,15,0
+1140,Tucumán,NOA,2020,1,22,0
+1141,Tucumán,NOA,2020,2,23,0
+1142,Tucumán,NOA,2020,3,35,0
+1143,Tucumán,NOA,2020,4,32,0
+1144,Tucumán,NOA,2020,5,183,0
+1145,Tucumán,NOA,2020,6,373,0
+1146,Tucumán,NOA,2020,7,1538,0
+1147,Tucumán,NOA,2020,8,2254,0
+1148,Tucumán,NOA,2020,9,1729,0
+1149,Tucumán,NOA,2020,10,688,0
+1150,Tucumán,NOA,2020,11,277,0
+1151,Tucumán,NOA,2020,12,136,0
+1152,Buenos Aires,Pampeana,2021,1,1083,0
+1153,Buenos Aires,Pampeana,2021,2,789,0
+1154,Buenos Aires,Pampeana,2021,3,992,0
+1155,Buenos Aires,Pampeana,2021,4,637,0
+1156,Buenos Aires,Pampeana,2021,5,704,0
+1157,Buenos Aires,Pampeana,2021,6,582,0
+1158,Buenos Aires,Pampeana,2021,7,1207,0
+1159,Buenos Aires,Pampeana,2021,8,2020,0
+1160,Buenos Aires,Pampeana,2021,9,735,0
+1161,Buenos Aires,Pampeana,2021,10,845,0
+1162,Buenos Aires,Pampeana,2021,11,707,0
+1163,Buenos Aires,Pampeana,2021,12,359,0
+1164,Catamarca,NOA,2021,1,33,0
+1165,Catamarca,NOA,2021,2,8,0
+1166,Catamarca,NOA,2021,3,14,0
+1167,Catamarca,NOA,2021,4,9,0
+1168,Catamarca,NOA,2021,5,34,0
+1169,Catamarca,NOA,2021,6,32,0
+1170,Catamarca,NOA,2021,7,145,0
+1171,Catamarca,NOA,2021,8,271,0
+1172,Catamarca,NOA,2021,9,178,0
+1173,Catamarca,NOA,2021,10,550,0
+1174,Catamarca,NOA,2021,11,41,0
+1175,Catamarca,NOA,2021,12,15,0
+1176,Chaco,Norte,2021,1,427,0
+1177,Chaco,Norte,2021,2,371,0
+1178,Chaco,Norte,2021,3,484,0
+1179,Chaco,Norte,2021,4,145,0
+1180,Chaco,Norte,2021,5,244,0
+1181,Chaco,Norte,2021,6,233,0
+1182,Chaco,Norte,2021,7,1921,0
+1183,Chaco,Norte,2021,8,4472,0
+1184,Chaco,Norte,2021,9,2981,0
+1185,Chaco,Norte,2021,10,1845,0
+1186,Chaco,Norte,2021,11,275,0
+1187,Chaco,Norte,2021,12,316,0
+1188,Chubut,Pampeana,2021,1,31,0
+1189,Chubut,Pampeana,2021,2,400,0
+1190,Chubut,Pampeana,2021,3,324,0
+1191,Chubut,Pampeana,2021,4,0,0
+1192,Chubut,Pampeana,2021,5,13,0
+1193,Chubut,Pampeana,2021,6,18,0
+1194,Chubut,Pampeana,2021,7,9,0
+1195,Chubut,Pampeana,2021,8,7,0
+1196,Chubut,Pampeana,2021,9,19,0
+1197,Chubut,Pampeana,2021,10,12,0
+1198,Chubut,Pampeana,2021,11,17,0
+1199,Chubut,Pampeana,2021,12,9,0
+1200,CABA,Pampeana,2021,1,0,0
+1201,CABA,Pampeana,2021,2,0,0
+1202,CABA,Pampeana,2021,3,1,0
+1203,CABA,Pampeana,2021,4,0,0
+1204,CABA,Pampeana,2021,5,0,0
+1205,CABA,Pampeana,2021,6,0,0
+1206,CABA,Pampeana,2021,7,0,0
+1207,CABA,Pampeana,2021,8,0,0
+1208,CABA,Pampeana,2021,9,0,0
+1209,CABA,Pampeana,2021,10,0,0
+1210,CABA,Pampeana,2021,11,0,0
+1211,CABA,Pampeana,2021,12,0,0
+1212,Corrientes,NEA,2021,1,578,0
+1213,Corrientes,NEA,2021,2,379,0
+1214,Corrientes,NEA,2021,3,1127,0
+1215,Corrientes,NEA,2021,4,990,0
+1216,Corrientes,NEA,2021,5,1083,0
+1217,Corrientes,NEA,2021,6,703,0
+1218,Corrientes,NEA,2021,7,3326,0
+1219,Corrientes,NEA,2021,8,4894,0
+1220,Corrientes,NEA,2021,9,1874,0
+1221,Corrientes,NEA,2021,10,1330,0
+1222,Corrientes,NEA,2021,11,496,0
+1223,Corrientes,NEA,2021,12,445,0
+1224,Córdoba,Centro,2021,1,78,0
+1225,Córdoba,Centro,2021,2,43,0
+1226,Córdoba,Centro,2021,3,62,0
+1227,Córdoba,Centro,2021,4,51,0
+1228,Córdoba,Centro,2021,5,103,0
+1229,Córdoba,Centro,2021,6,55,0
+1230,Córdoba,Centro,2021,7,384,0
+1231,Córdoba,Centro,2021,8,466,0
+1232,Córdoba,Centro,2021,9,278,0
+1233,Córdoba,Centro,2021,10,2033,0
+1234,Córdoba,Centro,2021,11,117,0
+1235,Córdoba,Centro,2021,12,65,0
+1236,Entre Ríos,NEA,2021,1,1124,0
+1237,Entre Ríos,NEA,2021,2,606,0
+1238,Entre Ríos,NEA,2021,3,858,0
+1239,Entre Ríos,NEA,2021,4,375,0
+1240,Entre Ríos,NEA,2021,5,834,0
+1241,Entre Ríos,NEA,2021,6,371,0
+1242,Entre Ríos,NEA,2021,7,1481,0
+1243,Entre Ríos,NEA,2021,8,3709,0
+1244,Entre Ríos,NEA,2021,9,1167,0
+1245,Entre Ríos,NEA,2021,10,1089,0
+1246,Entre Ríos,NEA,2021,11,657,0
+1247,Entre Ríos,NEA,2021,12,286,0
+1248,Formosa,Norte,2021,1,110,0
+1249,Formosa,Norte,2021,2,182,0
+1250,Formosa,Norte,2021,3,465,0
+1251,Formosa,Norte,2021,4,63,0
+1252,Formosa,Norte,2021,5,150,0
+1253,Formosa,Norte,2021,6,174,0
+1254,Formosa,Norte,2021,7,3638,0
+1255,Formosa,Norte,2021,8,7727,0
+1256,Formosa,Norte,2021,9,3993,0
+1257,Formosa,Norte,2021,10,1224,0
+1258,Formosa,Norte,2021,11,434,0
+1259,Formosa,Norte,2021,12,1373,0
+1260,Jujuy,NOA,2021,1,38,0
+1261,Jujuy,NOA,2021,2,39,0
+1262,Jujuy,NOA,2021,3,3,0
+1263,Jujuy,NOA,2021,4,2,0
+1264,Jujuy,NOA,2021,5,16,0
+1265,Jujuy,NOA,2021,6,48,0
+1266,Jujuy,NOA,2021,7,125,0
+1267,Jujuy,NOA,2021,8,164,0
+1268,Jujuy,NOA,2021,9,105,0
+1269,Jujuy,NOA,2021,10,866,0
+1270,Jujuy,NOA,2021,11,145,0
+1271,Jujuy,NOA,2021,12,195,0
+1272,La Pampa,Pampeana,2021,1,250,0
+1273,La Pampa,Pampeana,2021,2,263,0
+1274,La Pampa,Pampeana,2021,3,335,0
+1275,La Pampa,Pampeana,2021,4,51,0
+1276,La Pampa,Pampeana,2021,5,23,0
+1277,La Pampa,Pampeana,2021,6,19,0
+1278,La Pampa,Pampeana,2021,7,110,0
+1279,La Pampa,Pampeana,2021,8,386,0
+1280,La Pampa,Pampeana,2021,9,186,0
+1281,La Pampa,Pampeana,2021,10,65,0
+1282,La Pampa,Pampeana,2021,11,69,0
+1283,La Pampa,Pampeana,2021,12,9,0
+1284,La Rioja,Centro,2021,1,6,0
+1285,La Rioja,Centro,2021,2,7,0
+1286,La Rioja,Centro,2021,3,10,0
+1287,La Rioja,Centro,2021,4,17,0
+1288,La Rioja,Centro,2021,5,25,0
+1289,La Rioja,Centro,2021,6,47,0
+1290,La Rioja,Centro,2021,7,163,0
+1291,La Rioja,Centro,2021,8,118,0
+1292,La Rioja,Centro,2021,9,172,0
+1293,La Rioja,Centro,2021,10,1598,0
+1294,La Rioja,Centro,2021,11,317,0
+1295,La Rioja,Centro,2021,12,41,0
+1296,Mendoza,Pampeana,2021,1,102,0
+1297,Mendoza,Pampeana,2021,2,32,0
+1298,Mendoza,Pampeana,2021,3,39,0
+1299,Mendoza,Pampeana,2021,4,73,0
+1300,Mendoza,Pampeana,2021,5,82,0
+1301,Mendoza,Pampeana,2021,6,71,0
+1302,Mendoza,Pampeana,2021,7,421,0
+1303,Mendoza,Pampeana,2021,8,395,0
+1304,Mendoza,Pampeana,2021,9,591,0
+1305,Mendoza,Pampeana,2021,10,278,0
+1306,Mendoza,Pampeana,2021,11,128,0
+1307,Mendoza,Pampeana,2021,12,9,0
+1308,Misiones,NEA,2021,1,83,0
+1309,Misiones,NEA,2021,2,321,0
+1310,Misiones,NEA,2021,3,321,0
+1311,Misiones,NEA,2021,4,472,0
+1312,Misiones,NEA,2021,5,431,0
+1313,Misiones,NEA,2021,6,136,0
+1314,Misiones,NEA,2021,7,1116,0
+1315,Misiones,NEA,2021,8,1470,0
+1316,Misiones,NEA,2021,9,741,0
+1317,Misiones,NEA,2021,10,253,0
+1318,Misiones,NEA,2021,11,226,0
+1319,Misiones,NEA,2021,12,232,0
+1320,Neuquén,Pampeana,2021,1,325,0
+1321,Neuquén,Pampeana,2021,2,455,0
+1322,Neuquén,Pampeana,2021,3,393,0
+1323,Neuquén,Pampeana,2021,4,432,0
+1324,Neuquén,Pampeana,2021,5,296,0
+1325,Neuquén,Pampeana,2021,6,217,0
+1326,Neuquén,Pampeana,2021,7,421,0
+1327,Neuquén,Pampeana,2021,8,334,0
+1328,Neuquén,Pampeana,2021,9,570,0
+1329,Neuquén,Pampeana,2021,10,799,0
+1330,Neuquén,Pampeana,2021,11,566,0
+1331,Neuquén,Pampeana,2021,12,381,0
+1332,Río Negro,Pampeana,2021,1,481,0
+1333,Río Negro,Pampeana,2021,2,295,0
+1334,Río Negro,Pampeana,2021,3,537,0
+1335,Río Negro,Pampeana,2021,4,78,0
+1336,Río Negro,Pampeana,2021,5,41,0
+1337,Río Negro,Pampeana,2021,6,49,0
+1338,Río Negro,Pampeana,2021,7,193,0
+1339,Río Negro,Pampeana,2021,8,373,0
+1340,Río Negro,Pampeana,2021,9,297,0
+1341,Río Negro,Pampeana,2021,10,180,0
+1342,Río Negro,Pampeana,2021,11,104,0
+1343,Río Negro,Pampeana,2021,12,84,0
+1344,Salta,NOA,2021,1,113,0
+1345,Salta,NOA,2021,2,71,0
+1346,Salta,NOA,2021,3,88,0
+1347,Salta,NOA,2021,4,68,0
+1348,Salta,NOA,2021,5,168,0
+1349,Salta,NOA,2021,6,195,0
+1350,Salta,NOA,2021,7,662,0
+1351,Salta,NOA,2021,8,1526,0
+1352,Salta,NOA,2021,9,1350,0
+1353,Salta,NOA,2021,10,3357,0
+1354,Salta,NOA,2021,11,694,0
+1355,Salta,NOA,2021,12,205,0
+1356,San Juan,Centro,2021,1,67,0
+1357,San Juan,Centro,2021,2,26,0
+1358,San Juan,Centro,2021,3,28,0
+1359,San Juan,Centro,2021,4,24,0
+1360,San Juan,Centro,2021,5,44,0
+1361,San Juan,Centro,2021,6,50,0
+1362,San Juan,Centro,2021,7,136,0
+1363,San Juan,Centro,2021,8,410,0
+1364,San Juan,Centro,2021,9,188,0
+1365,San Juan,Centro,2021,10,123,0
+1366,San Juan,Centro,2021,11,116,0
+1367,San Juan,Centro,2021,12,26,0
+1368,San Luis,Centro,2021,1,61,0
+1369,San Luis,Centro,2021,2,64,0
+1370,San Luis,Centro,2021,3,654,0
+1371,San Luis,Centro,2021,4,19,0
+1372,San Luis,Centro,2021,5,13,0
+1373,San Luis,Centro,2021,6,27,0
+1374,San Luis,Centro,2021,7,63,0
+1375,San Luis,Centro,2021,8,288,0
+1376,San Luis,Centro,2021,9,158,0
+1377,San Luis,Centro,2021,10,955,0
+1378,San Luis,Centro,2021,11,138,0
+1379,San Luis,Centro,2021,12,15,0
+1380,Santa Cruz,Pampeana,2021,1,101,0
+1381,Santa Cruz,Pampeana,2021,2,43,0
+1382,Santa Cruz,Pampeana,2021,3,39,0
+1383,Santa Cruz,Pampeana,2021,4,12,0
+1384,Santa Cruz,Pampeana,2021,5,13,0
+1385,Santa Cruz,Pampeana,2021,6,24,0
+1386,Santa Cruz,Pampeana,2021,7,23,0
+1387,Santa Cruz,Pampeana,2021,8,18,0
+1388,Santa Cruz,Pampeana,2021,9,23,0
+1389,Santa Cruz,Pampeana,2021,10,18,0
+1390,Santa Cruz,Pampeana,2021,11,8,0
+1391,Santa Cruz,Pampeana,2021,12,4,0
+1392,Santa Fe,,2021,1,1272,0
+1393,Santa Fe,,2021,2,861,0
+1394,Santa Fe,,2021,3,867,0
+1395,Santa Fe,,2021,4,653,0
+1396,Santa Fe,,2021,5,1035,0
+1397,Santa Fe,,2021,6,708,0
+1398,Santa Fe,,2021,7,5197,0
+1399,Santa Fe,,2021,8,8255,0
+1400,Santa Fe,,2021,9,4532,0
+1401,Santa Fe,,2021,10,3124,0
+1402,Santa Fe,,2021,11,982,0
+1403,Santa Fe,,2021,12,885,0
+1404,Santiago del Estero,,2021,1,331,0
+1405,Santiago del Estero,,2021,2,162,0
+1406,Santiago del Estero,,2021,3,281,0
+1407,Santiago del Estero,,2021,4,273,0
+1408,Santiago del Estero,,2021,5,565,0
+1409,Santiago del Estero,,2021,6,592,0
+1410,Santiago del Estero,,2021,7,2802,0
+1411,Santiago del Estero,,2021,8,4430,0
+1412,Santiago del Estero,,2021,9,3234,0
+1413,Santiago del Estero,,2021,10,3556,0
+1414,Santiago del Estero,,2021,11,406,0
+1415,Santiago del Estero,,2021,12,189,0
+1416,Tierra del Fuego,,2021,1,2,0
+1417,Tierra del Fuego,,2021,2,3,0
+1418,Tierra del Fuego,,2021,3,2,0
+1419,Tierra del Fuego,,2021,4,0,0
+1420,Tierra del Fuego,,2021,5,2,0
+1421,Tierra del Fuego,,2021,6,5,0
+1422,Tierra del Fuego,,2021,7,3,0
+1423,Tierra del Fuego,,2021,8,1,0
+1424,Tierra del Fuego,,2021,9,2,0
+1425,Tierra del Fuego,,2021,10,9,0
+1426,Tierra del Fuego,,2021,11,1,0
+1427,Tierra del Fuego,,2021,12,1,0
+1428,Tucumán,NOA,2021,1,14,0
+1429,Tucumán,NOA,2021,2,10,0
+1430,Tucumán,NOA,2021,3,5,0
+1431,Tucumán,NOA,2021,4,10,0
+1432,Tucumán,NOA,2021,5,66,0
+1433,Tucumán,NOA,2021,6,182,0
+1434,Tucumán,NOA,2021,7,1047,0
+1435,Tucumán,NOA,2021,8,1602,0
+1436,Tucumán,NOA,2021,9,1015,0
+1437,Tucumán,NOA,2021,10,729,0
+1438,Tucumán,NOA,2021,11,84,0
+1439,Tucumán,NOA,2021,12,22,0
+1440,Buenos Aires,Pampeana,2022,1,1955,0
+1441,Buenos Aires,Pampeana,2022,2,874,0
+1442,Buenos Aires,Pampeana,2022,3,544,0
+1443,Buenos Aires,Pampeana,2022,4,634,0
+1444,Buenos Aires,Pampeana,2022,5,502,0
+1445,Buenos Aires,Pampeana,2022,6,833,0
+1446,Buenos Aires,Pampeana,2022,7,754,0
+1447,Buenos Aires,Pampeana,2022,8,1761,0
+1448,Buenos Aires,Pampeana,2022,9,1329,0
+1449,Buenos Aires,Pampeana,2022,10,1230,0
+1450,Buenos Aires,Pampeana,2022,11,1192,0
+1451,Buenos Aires,Pampeana,2022,12,1300,0
+1452,Catamarca,NOA,2022,1,160,0
+1453,Catamarca,NOA,2022,2,20,0
+1454,Catamarca,NOA,2022,3,31,0
+1455,Catamarca,NOA,2022,4,33,0
+1456,Catamarca,NOA,2022,5,23,0
+1457,Catamarca,NOA,2022,6,59,0
+1458,Catamarca,NOA,2022,7,437,0
+1459,Catamarca,NOA,2022,8,254,0
+1460,Catamarca,NOA,2022,9,227,0
+1461,Catamarca,NOA,2022,10,139,0
+1462,Catamarca,NOA,2022,11,309,0
+1463,Catamarca,NOA,2022,12,42,0
+1464,Chaco,Norte,2022,1,2937,0
+1465,Chaco,Norte,2022,2,1917,0
+1466,Chaco,Norte,2022,3,341,0
+1467,Chaco,Norte,2022,4,153,0
+1468,Chaco,Norte,2022,5,272,0
+1469,Chaco,Norte,2022,6,296,0
+1470,Chaco,Norte,2022,7,743,0
+1471,Chaco,Norte,2022,8,3600,0
+1472,Chaco,Norte,2022,9,3905,0
+1473,Chaco,Norte,2022,10,2485,0
+1474,Chaco,Norte,2022,11,1722,0
+1475,Chaco,Norte,2022,12,1194,0
+1476,Chubut,Pampeana,2022,1,821,0
+1477,Chubut,Pampeana,2022,2,14,0
+1478,Chubut,Pampeana,2022,3,6,0
+1479,Chubut,Pampeana,2022,4,7,0
+1480,Chubut,Pampeana,2022,5,4,0
+1481,Chubut,Pampeana,2022,6,9,0
+1482,Chubut,Pampeana,2022,7,6,0
+1483,Chubut,Pampeana,2022,8,10,0
+1484,Chubut,Pampeana,2022,9,17,0
+1485,Chubut,Pampeana,2022,10,18,0
+1486,Chubut,Pampeana,2022,11,9,0
+1487,Chubut,Pampeana,2022,12,7,0
+1488,CABA,Pampeana,2022,1,0,0
+1489,CABA,Pampeana,2022,2,0,0
+1490,CABA,Pampeana,2022,3,0,0
+1491,CABA,Pampeana,2022,4,0,0
+1492,CABA,Pampeana,2022,5,0,0
+1493,CABA,Pampeana,2022,6,0,0
+1494,CABA,Pampeana,2022,7,0,0
+1495,CABA,Pampeana,2022,8,0,0
+1496,CABA,Pampeana,2022,9,0,0
+1497,CABA,Pampeana,2022,10,0,0
+1498,CABA,Pampeana,2022,11,0,0
+1499,CABA,Pampeana,2022,12,1,0
+1500,Corrientes,NEA,2022,1,14067,0
+1501,Corrientes,NEA,2022,2,23866,0
+1502,Corrientes,NEA,2022,3,1328,0
+1503,Corrientes,NEA,2022,4,323,0
+1504,Corrientes,NEA,2022,5,529,0
+1505,Corrientes,NEA,2022,6,410,0
+1506,Corrientes,NEA,2022,7,440,0
+1507,Corrientes,NEA,2022,8,1055,0
+1508,Corrientes,NEA,2022,9,1140,0
+1509,Corrientes,NEA,2022,10,406,0
+1510,Corrientes,NEA,2022,11,558,0
+1511,Corrientes,NEA,2022,12,1735,0
+1512,Córdoba,Centro,2022,1,209,0
+1513,Córdoba,Centro,2022,2,106,0
+1514,Córdoba,Centro,2022,3,85,0
+1515,Córdoba,Centro,2022,4,162,0
+1516,Córdoba,Centro,2022,5,110,0
+1517,Córdoba,Centro,2022,6,227,0
+1518,Córdoba,Centro,2022,7,301,0
+1519,Córdoba,Centro,2022,8,508,0
+1520,Córdoba,Centro,2022,9,1900,0
+1521,Córdoba,Centro,2022,10,784,0
+1522,Córdoba,Centro,2022,11,1052,0
+1523,Córdoba,Centro,2022,12,206,0
+1524,Entre Ríos,NEA,2022,1,1841,0
+1525,Entre Ríos,NEA,2022,2,738,0
+1526,Entre Ríos,NEA,2022,3,148,0
+1527,Entre Ríos,NEA,2022,4,260,0
+1528,Entre Ríos,NEA,2022,5,372,0
+1529,Entre Ríos,NEA,2022,6,906,0
+1530,Entre Ríos,NEA,2022,7,1563,0
+1531,Entre Ríos,NEA,2022,8,7524,0
+1532,Entre Ríos,NEA,2022,9,3753,0
+1533,Entre Ríos,NEA,2022,10,1914,0
+1534,Entre Ríos,NEA,2022,11,947,0
+1535,Entre Ríos,NEA,2022,12,1790,0
+1536,Formosa,Norte,2022,1,20941,0
+1537,Formosa,Norte,2022,2,4184,0
+1538,Formosa,Norte,2022,3,1440,0
+1539,Formosa,Norte,2022,4,219,0
+1540,Formosa,Norte,2022,5,92,0
+1541,Formosa,Norte,2022,6,159,0
+1542,Formosa,Norte,2022,7,777,0
+1543,Formosa,Norte,2022,8,4042,0
+1544,Formosa,Norte,2022,9,4886,0
+1545,Formosa,Norte,2022,10,1753,0
+1546,Formosa,Norte,2022,11,1266,0
+1547,Formosa,Norte,2022,12,1318,0
+1548,Jujuy,NOA,2022,1,40,0
+1549,Jujuy,NOA,2022,2,14,0
+1550,Jujuy,NOA,2022,3,27,0
+1551,Jujuy,NOA,2022,4,5,0
+1552,Jujuy,NOA,2022,5,37,0
+1553,Jujuy,NOA,2022,6,125,0
+1554,Jujuy,NOA,2022,7,127,0
+1555,Jujuy,NOA,2022,8,228,0
+1556,Jujuy,NOA,2022,9,851,0
+1557,Jujuy,NOA,2022,10,136,0
+1558,Jujuy,NOA,2022,11,1637,0
+1559,Jujuy,NOA,2022,12,190,0
+1560,La Pampa,Pampeana,2022,1,304,0
+1561,La Pampa,Pampeana,2022,2,171,0
+1562,La Pampa,Pampeana,2022,3,189,0
+1563,La Pampa,Pampeana,2022,4,225,0
+1564,La Pampa,Pampeana,2022,5,118,0
+1565,La Pampa,Pampeana,2022,6,124,0
+1566,La Pampa,Pampeana,2022,7,113,0
+1567,La Pampa,Pampeana,2022,8,1266,0
+1568,La Pampa,Pampeana,2022,9,1064,0
+1569,La Pampa,Pampeana,2022,10,169,0
+1570,La Pampa,Pampeana,2022,11,463,0
+1571,La Pampa,Pampeana,2022,12,1034,0
+1572,La Rioja,Centro,2022,1,119,0
+1573,La Rioja,Centro,2022,2,17,0
+1574,La Rioja,Centro,2022,3,33,0
+1575,La Rioja,Centro,2022,4,75,0
+1576,La Rioja,Centro,2022,5,26,0
+1577,La Rioja,Centro,2022,6,49,0
+1578,La Rioja,Centro,2022,7,64,0
+1579,La Rioja,Centro,2022,8,118,0
+1580,La Rioja,Centro,2022,9,724,0
+1581,La Rioja,Centro,2022,10,402,0
+1582,La Rioja,Centro,2022,11,929,0
+1583,La Rioja,Centro,2022,12,52,0
+1584,Mendoza,Pampeana,2022,1,93,0
+1585,Mendoza,Pampeana,2022,2,41,0
+1586,Mendoza,Pampeana,2022,3,70,0
+1587,Mendoza,Pampeana,2022,4,103,0
+1588,Mendoza,Pampeana,2022,5,151,0
+1589,Mendoza,Pampeana,2022,6,148,0
+1590,Mendoza,Pampeana,2022,7,240,0
+1591,Mendoza,Pampeana,2022,8,583,0
+1592,Mendoza,Pampeana,2022,9,593,0
+1593,Mendoza,Pampeana,2022,10,299,0
+1594,Mendoza,Pampeana,2022,11,192,0
+1595,Mendoza,Pampeana,2022,12,90,0
+1596,Misiones,NEA,2022,1,706,0
+1597,Misiones,NEA,2022,2,951,0
+1598,Misiones,NEA,2022,3,228,0
+1599,Misiones,NEA,2022,4,205,0
+1600,Misiones,NEA,2022,5,205,0
+1601,Misiones,NEA,2022,6,86,0
+1602,Misiones,NEA,2022,7,729,0
+1603,Misiones,NEA,2022,8,1054,0
+1604,Misiones,NEA,2022,9,506,0
+1605,Misiones,NEA,2022,10,251,0
+1606,Misiones,NEA,2022,11,386,0
+1607,Misiones,NEA,2022,12,167,0
+1608,Neuquén,Pampeana,2022,1,538,0
+1609,Neuquén,Pampeana,2022,2,511,0
+1610,Neuquén,Pampeana,2022,3,711,0
+1611,Neuquén,Pampeana,2022,4,565,0
+1612,Neuquén,Pampeana,2022,5,532,0
+1613,Neuquén,Pampeana,2022,6,266,0
+1614,Neuquén,Pampeana,2022,7,316,0
+1615,Neuquén,Pampeana,2022,8,424,0
+1616,Neuquén,Pampeana,2022,9,480,0
+1617,Neuquén,Pampeana,2022,10,375,0
+1618,Neuquén,Pampeana,2022,11,447,0
+1619,Neuquén,Pampeana,2022,12,552,0
+1620,Río Negro,Pampeana,2022,1,531,0
+1621,Río Negro,Pampeana,2022,2,152,0
+1622,Río Negro,Pampeana,2022,3,64,0
+1623,Río Negro,Pampeana,2022,4,46,0
+1624,Río Negro,Pampeana,2022,5,83,0
+1625,Río Negro,Pampeana,2022,6,94,0
+1626,Río Negro,Pampeana,2022,7,102,0
+1627,Río Negro,Pampeana,2022,8,291,0
+1628,Río Negro,Pampeana,2022,9,360,0
+1629,Río Negro,Pampeana,2022,10,150,0
+1630,Río Negro,Pampeana,2022,11,70,0
+1631,Río Negro,Pampeana,2022,12,395,0
+1632,Salta,NOA,2022,1,884,0
+1633,Salta,NOA,2022,2,53,0
+1634,Salta,NOA,2022,3,46,0
+1635,Salta,NOA,2022,4,38,0
+1636,Salta,NOA,2022,5,128,0
+1637,Salta,NOA,2022,6,227,0
+1638,Salta,NOA,2022,7,476,0
+1639,Salta,NOA,2022,8,1569,0
+1640,Salta,NOA,2022,9,6107,0
+1641,Salta,NOA,2022,10,6238,0
+1642,Salta,NOA,2022,11,21958,0
+1643,Salta,NOA,2022,12,1564,0
+1644,San Juan,Centro,2022,1,55,0
+1645,San Juan,Centro,2022,2,11,0
+1646,San Juan,Centro,2022,3,31,0
+1647,San Juan,Centro,2022,4,84,0
+1648,San Juan,Centro,2022,5,48,0
+1649,San Juan,Centro,2022,6,51,0
+1650,San Juan,Centro,2022,7,152,0
+1651,San Juan,Centro,2022,8,151,0
+1652,San Juan,Centro,2022,9,568,0
+1653,San Juan,Centro,2022,10,206,0
+1654,San Juan,Centro,2022,11,102,0
+1655,San Juan,Centro,2022,12,59,0
+1656,San Luis,Centro,2022,1,761,0
+1657,San Luis,Centro,2022,2,63,0
+1658,San Luis,Centro,2022,3,44,0
+1659,San Luis,Centro,2022,4,78,0
+1660,San Luis,Centro,2022,5,66,0
+1661,San Luis,Centro,2022,6,43,0
+1662,San Luis,Centro,2022,7,188,0
+1663,San Luis,Centro,2022,8,229,0
+1664,San Luis,Centro,2022,9,1272,0
+1665,San Luis,Centro,2022,10,747,0
+1666,San Luis,Centro,2022,11,206,0
+1667,San Luis,Centro,2022,12,1126,0
+1668,Santa Cruz,Pampeana,2022,1,19,0
+1669,Santa Cruz,Pampeana,2022,2,11,0
+1670,Santa Cruz,Pampeana,2022,3,82,0
+1671,Santa Cruz,Pampeana,2022,4,24,0
+1672,Santa Cruz,Pampeana,2022,5,11,0
+1673,Santa Cruz,Pampeana,2022,6,17,0
+1674,Santa Cruz,Pampeana,2022,7,11,0
+1675,Santa Cruz,Pampeana,2022,8,5,0
+1676,Santa Cruz,Pampeana,2022,9,14,0
+1677,Santa Cruz,Pampeana,2022,10,19,0
+1678,Santa Cruz,Pampeana,2022,11,54,0
+1679,Santa Cruz,Pampeana,2022,12,98,0
+1680,Santa Fe,,2022,1,6052,0
+1681,Santa Fe,,2022,2,4078,0
+1682,Santa Fe,,2022,3,690,0
+1683,Santa Fe,,2022,4,632,0
+1684,Santa Fe,,2022,5,883,0
+1685,Santa Fe,,2022,6,1588,0
+1686,Santa Fe,,2022,7,2975,0
+1687,Santa Fe,,2022,8,6181,0
+1688,Santa Fe,,2022,9,7132,0
+1689,Santa Fe,,2022,10,3324,0
+1690,Santa Fe,,2022,11,2857,0
+1691,Santa Fe,,2022,12,1772,0
+1692,Santiago del Estero,,2022,1,847,0
+1693,Santiago del Estero,,2022,2,339,0
+1694,Santiago del Estero,,2022,3,167,0
+1695,Santiago del Estero,,2022,4,273,0
+1696,Santiago del Estero,,2022,5,503,0
+1697,Santiago del Estero,,2022,6,649,0
+1698,Santiago del Estero,,2022,7,1537,0
+1699,Santiago del Estero,,2022,8,4136,0
+1700,Santiago del Estero,,2022,9,4477,0
+1701,Santiago del Estero,,2022,10,3689,0
+1702,Santiago del Estero,,2022,11,2151,0
+1703,Santiago del Estero,,2022,12,813,0
+1704,Tierra del Fuego,,2022,1,2,0
+1705,Tierra del Fuego,,2022,2,5,0
+1706,Tierra del Fuego,,2022,3,0,0
+1707,Tierra del Fuego,,2022,4,6,0
+1708,Tierra del Fuego,,2022,5,4,0
+1709,Tierra del Fuego,,2022,6,1,0
+1710,Tierra del Fuego,,2022,7,7,0
+1711,Tierra del Fuego,,2022,8,1,0
+1712,Tierra del Fuego,,2022,9,4,0
+1713,Tierra del Fuego,,2022,10,0,0
+1714,Tierra del Fuego,,2022,11,2,0
+1715,Tierra del Fuego,,2022,12,1436,0
+1716,Tucumán,NOA,2022,1,39,0
+1717,Tucumán,NOA,2022,2,21,0
+1718,Tucumán,NOA,2022,3,17,0
+1719,Tucumán,NOA,2022,4,32,0
+1720,Tucumán,NOA,2022,5,71,0
+1721,Tucumán,NOA,2022,6,302,0
+1722,Tucumán,NOA,2022,7,764,0
+1723,Tucumán,NOA,2022,8,1815,0
+1724,Tucumán,NOA,2022,9,1364,0
+1725,Tucumán,NOA,2022,10,524,0
+1726,Tucumán,NOA,2022,11,551,0
+1727,Tucumán,NOA,2022,12,105,0
+1728,Buenos Aires,Pampeana,2023,1,1779,0
+1729,Buenos Aires,Pampeana,2023,2,1327,0
+1730,Buenos Aires,Pampeana,2023,3,1186,0
+1731,Buenos Aires,Pampeana,2023,4,720,0
+1732,Buenos Aires,Pampeana,2023,5,614,0
+1733,Buenos Aires,Pampeana,2023,6,528,0
+1734,Buenos Aires,Pampeana,2023,7,421,0
+1735,Buenos Aires,Pampeana,2023,8,1250,0
+1736,Buenos Aires,Pampeana,2023,9,755,0
+1737,Buenos Aires,Pampeana,2023,10,962,0
+1738,Buenos Aires,Pampeana,2023,11,668,0
+1739,Buenos Aires,Pampeana,2023,12,360,0
+1740,Catamarca,NOA,2023,1,51,0
+1741,Catamarca,NOA,2023,2,46,0
+1742,Catamarca,NOA,2023,3,12,0
+1743,Catamarca,NOA,2023,4,23,0
+1744,Catamarca,NOA,2023,5,23,0
+1745,Catamarca,NOA,2023,6,44,0
+1746,Catamarca,NOA,2023,7,37,0
+1747,Catamarca,NOA,2023,8,101,0
+1748,Catamarca,NOA,2023,9,59,0
+1749,Catamarca,NOA,2023,10,236,0
+1750,Catamarca,NOA,2023,11,94,0
+1751,Catamarca,NOA,2023,12,78,0
+1752,Chaco,Norte,2023,1,1187,0
+1753,Chaco,Norte,2023,2,700,0
+1754,Chaco,Norte,2023,3,680,0
+1755,Chaco,Norte,2023,4,362,0
+1756,Chaco,Norte,2023,5,379,0
+1757,Chaco,Norte,2023,6,513,0
+1758,Chaco,Norte,2023,7,1330,0
+1759,Chaco,Norte,2023,8,4497,0
+1760,Chaco,Norte,2023,9,2608,0
+1761,Chaco,Norte,2023,10,2444,0
+1762,Chaco,Norte,2023,11,831,0
+1763,Chaco,Norte,2023,12,312,0
+1764,Chubut,Pampeana,2023,1,51,0
+1765,Chubut,Pampeana,2023,2,469,0
+1766,Chubut,Pampeana,2023,3,15,0
+1767,Chubut,Pampeana,2023,4,5,0
+1768,Chubut,Pampeana,2023,5,8,0
+1769,Chubut,Pampeana,2023,6,1,0
+1770,Chubut,Pampeana,2023,7,5,0
+1771,Chubut,Pampeana,2023,8,25,0
+1772,Chubut,Pampeana,2023,9,12,0
+1773,Chubut,Pampeana,2023,10,31,0
+1774,Chubut,Pampeana,2023,11,7,0
+1775,Chubut,Pampeana,2023,12,73,0
+1776,CABA,Pampeana,2023,1,4,0
+1777,CABA,Pampeana,2023,2,0,0
+1778,CABA,Pampeana,2023,3,0,0
+1779,CABA,Pampeana,2023,4,0,0
+1780,CABA,Pampeana,2023,5,0,0
+1781,CABA,Pampeana,2023,6,0,0
+1782,CABA,Pampeana,2023,7,0,0
+1783,CABA,Pampeana,2023,8,0,0
+1784,CABA,Pampeana,2023,9,0,0
+1785,CABA,Pampeana,2023,10,0,0
+1786,CABA,Pampeana,2023,11,0,0
+1787,CABA,Pampeana,2023,12,2,0
+1788,Corrientes,NEA,2023,1,3105,0
+1789,Corrientes,NEA,2023,2,8471,0
+1790,Corrientes,NEA,2023,3,2548,0
+1791,Corrientes,NEA,2023,4,1842,0
+1792,Corrientes,NEA,2023,5,1356,0
+1793,Corrientes,NEA,2023,6,815,0
+1794,Corrientes,NEA,2023,7,1300,0
+1795,Corrientes,NEA,2023,8,3586,0
+1796,Corrientes,NEA,2023,9,435,0
+1797,Corrientes,NEA,2023,10,393,0
+1798,Corrientes,NEA,2023,11,33,0
+1799,Corrientes,NEA,2023,12,44,0
+1800,Córdoba,Centro,2023,1,106,0
+1801,Córdoba,Centro,2023,2,85,0
+1802,Córdoba,Centro,2023,3,79,0
+1803,Córdoba,Centro,2023,4,113,0
+1804,Córdoba,Centro,2023,5,139,0
+1805,Córdoba,Centro,2023,6,64,0
+1806,Córdoba,Centro,2023,7,172,0
+1807,Córdoba,Centro,2023,8,524,0
+1808,Córdoba,Centro,2023,9,299,0
+1809,Córdoba,Centro,2023,10,764,0
+1810,Córdoba,Centro,2023,11,264,0
+1811,Córdoba,Centro,2023,12,46,0
+1812,Entre Ríos,NEA,2023,1,2589,0
+1813,Entre Ríos,NEA,2023,2,2281,0
+1814,Entre Ríos,NEA,2023,3,2676,0
+1815,Entre Ríos,NEA,2023,4,352,0
+1816,Entre Ríos,NEA,2023,5,450,0
+1817,Entre Ríos,NEA,2023,6,246,0
+1818,Entre Ríos,NEA,2023,7,186,0
+1819,Entre Ríos,NEA,2023,8,877,0
+1820,Entre Ríos,NEA,2023,9,558,0
+1821,Entre Ríos,NEA,2023,10,376,0
+1822,Entre Ríos,NEA,2023,11,67,0
+1823,Entre Ríos,NEA,2023,12,73,0
+1824,Formosa,Norte,2023,1,2004,0
+1825,Formosa,Norte,2023,2,817,0
+1826,Formosa,Norte,2023,3,356,0
+1827,Formosa,Norte,2023,4,253,0
+1828,Formosa,Norte,2023,5,131,0
+1829,Formosa,Norte,2023,6,189,0
+1830,Formosa,Norte,2023,7,918,0
+1831,Formosa,Norte,2023,8,5028,0
+1832,Formosa,Norte,2023,9,9169,0
+1833,Formosa,Norte,2023,10,5335,0
+1834,Formosa,Norte,2023,11,3242,0
+1835,Formosa,Norte,2023,12,306,0
+1836,Jujuy,NOA,2023,1,46,0
+1837,Jujuy,NOA,2023,2,20,0
+1838,Jujuy,NOA,2023,3,22,0
+1839,Jujuy,NOA,2023,4,34,0
+1840,Jujuy,NOA,2023,5,12,0
+1841,Jujuy,NOA,2023,6,76,0
+1842,Jujuy,NOA,2023,7,122,0
+1843,Jujuy,NOA,2023,8,121,0
+1844,Jujuy,NOA,2023,9,196,0
+1845,Jujuy,NOA,2023,10,78,0
+1846,Jujuy,NOA,2023,11,111,0
+1847,Jujuy,NOA,2023,12,79,0
+1848,La Pampa,Pampeana,2023,1,417,0
+1849,La Pampa,Pampeana,2023,2,532,0
+1850,La Pampa,Pampeana,2023,3,287,0
+1851,La Pampa,Pampeana,2023,4,68,0
+1852,La Pampa,Pampeana,2023,5,139,0
+1853,La Pampa,Pampeana,2023,6,58,0
+1854,La Pampa,Pampeana,2023,7,34,0
+1855,La Pampa,Pampeana,2023,8,428,0
+1856,La Pampa,Pampeana,2023,9,234,0
+1857,La Pampa,Pampeana,2023,10,258,0
+1858,La Pampa,Pampeana,2023,11,266,0
+1859,La Pampa,Pampeana,2023,12,290,0
+1860,La Rioja,Centro,2023,1,112,0
+1861,La Rioja,Centro,2023,2,19,0
+1862,La Rioja,Centro,2023,3,41,0
+1863,La Rioja,Centro,2023,4,36,0
+1864,La Rioja,Centro,2023,5,50,0
+1865,La Rioja,Centro,2023,6,54,0
+1866,La Rioja,Centro,2023,7,67,0
+1867,La Rioja,Centro,2023,8,110,0
+1868,La Rioja,Centro,2023,9,161,0
+1869,La Rioja,Centro,2023,10,97,0
+1870,La Rioja,Centro,2023,11,608,0
+1871,La Rioja,Centro,2023,12,48,0
+1872,Mendoza,Pampeana,2023,1,654,0
+1873,Mendoza,Pampeana,2023,2,283,0
+1874,Mendoza,Pampeana,2023,3,97,0
+1875,Mendoza,Pampeana,2023,4,64,0
+1876,Mendoza,Pampeana,2023,5,86,0
+1877,Mendoza,Pampeana,2023,6,142,0
+1878,Mendoza,Pampeana,2023,7,153,0
+1879,Mendoza,Pampeana,2023,8,341,0
+1880,Mendoza,Pampeana,2023,9,270,0
+1881,Mendoza,Pampeana,2023,10,344,0
+1882,Mendoza,Pampeana,2023,11,129,0
+1883,Mendoza,Pampeana,2023,12,132,0
+1884,Misiones,NEA,2023,1,166,0
+1885,Misiones,NEA,2023,2,156,0
+1886,Misiones,NEA,2023,3,237,0
+1887,Misiones,NEA,2023,4,253,0
+1888,Misiones,NEA,2023,5,429,0
+1889,Misiones,NEA,2023,6,419,0
+1890,Misiones,NEA,2023,7,570,0
+1891,Misiones,NEA,2023,8,1227,0
+1892,Misiones,NEA,2023,9,230,0
+1893,Misiones,NEA,2023,10,68,0
+1894,Misiones,NEA,2023,11,59,0
+1895,Misiones,NEA,2023,12,60,0
+1896,Neuquén,Pampeana,2023,1,537,0
+1897,Neuquén,Pampeana,2023,2,531,0
+1898,Neuquén,Pampeana,2023,3,465,0
+1899,Neuquén,Pampeana,2023,4,299,0
+1900,Neuquén,Pampeana,2023,5,406,0
+1901,Neuquén,Pampeana,2023,6,225,0
+1902,Neuquén,Pampeana,2023,7,222,0
+1903,Neuquén,Pampeana,2023,8,323,0
+1904,Neuquén,Pampeana,2023,9,303,0
+1905,Neuquén,Pampeana,2023,10,450,0
+1906,Neuquén,Pampeana,2023,11,465,0
+1907,Neuquén,Pampeana,2023,12,708,0
+1908,Río Negro,Pampeana,2023,1,655,0
+1909,Río Negro,Pampeana,2023,2,177,0
+1910,Río Negro,Pampeana,2023,3,450,0
+1911,Río Negro,Pampeana,2023,4,198,0
+1912,Río Negro,Pampeana,2023,5,167,0
+1913,Río Negro,Pampeana,2023,6,117,0
+1914,Río Negro,Pampeana,2023,7,59,0
+1915,Río Negro,Pampeana,2023,8,336,0
+1916,Río Negro,Pampeana,2023,9,166,0
+1917,Río Negro,Pampeana,2023,10,199,0
+1918,Río Negro,Pampeana,2023,11,103,0
+1919,Río Negro,Pampeana,2023,12,242,0
+1920,Salta,NOA,2023,1,268,0
+1921,Salta,NOA,2023,2,221,0
+1922,Salta,NOA,2023,3,70,0
+1923,Salta,NOA,2023,4,48,0
+1924,Salta,NOA,2023,5,37,0
+1925,Salta,NOA,2023,6,64,0
+1926,Salta,NOA,2023,7,282,0
+1927,Salta,NOA,2023,8,1016,0
+1928,Salta,NOA,2023,9,1330,0
+1929,Salta,NOA,2023,10,1954,0
+1930,Salta,NOA,2023,11,1041,0
+1931,Salta,NOA,2023,12,258,0
+1932,San Juan,Centro,2023,1,44,0
+1933,San Juan,Centro,2023,2,28,0
+1934,San Juan,Centro,2023,3,36,0
+1935,San Juan,Centro,2023,4,27,0
+1936,San Juan,Centro,2023,5,32,0
+1937,San Juan,Centro,2023,6,34,0
+1938,San Juan,Centro,2023,7,57,0
+1939,San Juan,Centro,2023,8,225,0
+1940,San Juan,Centro,2023,9,127,0
+1941,San Juan,Centro,2023,10,165,0
+1942,San Juan,Centro,2023,11,283,0
+1943,San Juan,Centro,2023,12,165,0
+1944,San Luis,Centro,2023,1,894,0
+1945,San Luis,Centro,2023,2,40,0
+1946,San Luis,Centro,2023,3,217,0
+1947,San Luis,Centro,2023,4,26,0
+1948,San Luis,Centro,2023,5,42,0
+1949,San Luis,Centro,2023,6,31,0
+1950,San Luis,Centro,2023,7,30,0
+1951,San Luis,Centro,2023,8,709,0
+1952,San Luis,Centro,2023,9,313,0
+1953,San Luis,Centro,2023,10,943,0
+1954,San Luis,Centro,2023,11,304,0
+1955,San Luis,Centro,2023,12,77,0
+1956,Santa Cruz,Pampeana,2023,1,20,0
+1957,Santa Cruz,Pampeana,2023,2,28,0
+1958,Santa Cruz,Pampeana,2023,3,27,0
+1959,Santa Cruz,Pampeana,2023,4,21,0
+1960,Santa Cruz,Pampeana,2023,5,43,0
+1961,Santa Cruz,Pampeana,2023,6,3,0
+1962,Santa Cruz,Pampeana,2023,7,9,0
+1963,Santa Cruz,Pampeana,2023,8,4,0
+1964,Santa Cruz,Pampeana,2023,9,5,0
+1965,Santa Cruz,Pampeana,2023,10,13,0
+1966,Santa Cruz,Pampeana,2023,11,8,0
+1967,Santa Cruz,Pampeana,2023,12,33,0
+1968,Santa Fe,,2023,1,1444,0
+1969,Santa Fe,,2023,2,1173,0
+1970,Santa Fe,,2023,3,876,0
+1971,Santa Fe,,2023,4,768,0
+1972,Santa Fe,,2023,5,850,0
+1973,Santa Fe,,2023,6,813,0
+1974,Santa Fe,,2023,7,1409,0
+1975,Santa Fe,,2023,8,4465,0
+1976,Santa Fe,,2023,9,1922,0
+1977,Santa Fe,,2023,10,1833,0
+1978,Santa Fe,,2023,11,723,0
+1979,Santa Fe,,2023,12,342,0
+1980,Santiago del Estero,,2023,1,438,0
+1981,Santiago del Estero,,2023,2,168,0
+1982,Santiago del Estero,,2023,3,273,0
+1983,Santiago del Estero,,2023,4,107,0
+1984,Santiago del Estero,,2023,5,213,0
+1985,Santiago del Estero,,2023,6,269,0
+1986,Santiago del Estero,,2023,7,1137,0
+1987,Santiago del Estero,,2023,8,2756,0
+1988,Santiago del Estero,,2023,9,1971,0
+1989,Santiago del Estero,,2023,10,1693,0
+1990,Santiago del Estero,,2023,11,477,0
+1991,Santiago del Estero,,2023,12,209,0
+1992,Tierra del Fuego,,2023,1,7,0
+1993,Tierra del Fuego,,2023,2,5,0
+1994,Tierra del Fuego,,2023,3,3,0
+1995,Tierra del Fuego,,2023,4,7,0
+1996,Tierra del Fuego,,2023,5,13,0
+1997,Tierra del Fuego,,2023,6,5,0
+1998,Tierra del Fuego,,2023,7,4,0
+1999,Tierra del Fuego,,2023,8,4,0
+2000,Tierra del Fuego,,2023,9,2,0
+2001,Tierra del Fuego,,2023,10,1,0
+2002,Tierra del Fuego,,2023,11,1,0
+2003,Tierra del Fuego,,2023,12,4,0
+2004,Tucumán,NOA,2023,1,63,0
+2005,Tucumán,NOA,2023,2,28,0
+2006,Tucumán,NOA,2023,3,30,0
+2007,Tucumán,NOA,2023,4,10,0
+2008,Tucumán,NOA,2023,5,33,0
+2009,Tucumán,NOA,2023,6,150,0
+2010,Tucumán,NOA,2023,7,248,0
+2011,Tucumán,NOA,2023,8,803,0
+2012,Tucumán,NOA,2023,9,468,0
+2013,Tucumán,NOA,2023,10,618,0
+2014,Tucumán,NOA,2023,11,191,0
+2015,Tucumán,NOA,2023,12,8,0
+2016,Buenos Aires,Pampeana,2024,1,573,0
+2017,Buenos Aires,Pampeana,2024,2,594,0
+2018,Buenos Aires,Pampeana,2024,3,371,0
+2019,Buenos Aires,Pampeana,2024,4,270,0
+2020,Buenos Aires,Pampeana,2024,5,227,0
+2021,Buenos Aires,Pampeana,2024,6,222,0
+2022,Buenos Aires,Pampeana,2024,7,615,0
+2023,Buenos Aires,Pampeana,2024,8,611,0
+2024,Buenos Aires,Pampeana,2024,9,758,0
+2025,Buenos Aires,Pampeana,2024,10,672,0
+2026,Buenos Aires,Pampeana,2024,11,374,0
+2027,Buenos Aires,Pampeana,2024,12,564,0
+2028,Catamarca,NOA,2024,1,30,0
+2029,Catamarca,NOA,2024,2,12,0
+2030,Catamarca,NOA,2024,3,12,0
+2031,Catamarca,NOA,2024,4,58,0
+2032,Catamarca,NOA,2024,5,18,0
+2033,Catamarca,NOA,2024,6,22,0
+2034,Catamarca,NOA,2024,7,85,0
+2035,Catamarca,NOA,2024,8,119,0
+2036,Catamarca,NOA,2024,9,263,0
+2037,Catamarca,NOA,2024,10,71,0
+2038,Catamarca,NOA,2024,11,44,0
+2039,Catamarca,NOA,2024,12,36,0
+2040,Chaco,Norte,2024,1,362,0
+2041,Chaco,Norte,2024,2,547,0
+2042,Chaco,Norte,2024,3,922,0
+2043,Chaco,Norte,2024,4,131,0
+2044,Chaco,Norte,2024,5,318,0
+2045,Chaco,Norte,2024,6,917,0
+2046,Chaco,Norte,2024,7,2029,0
+2047,Chaco,Norte,2024,8,5038,0
+2048,Chaco,Norte,2024,9,4451,0
+2049,Chaco,Norte,2024,10,1783,0
+2050,Chaco,Norte,2024,11,674,0
+2051,Chaco,Norte,2024,12,374,0
+2052,Chubut,Pampeana,2024,1,414,0
+2053,Chubut,Pampeana,2024,2,399,0
+2054,Chubut,Pampeana,2024,3,13,0
+2055,Chubut,Pampeana,2024,4,11,0
+2056,Chubut,Pampeana,2024,5,1,0
+2057,Chubut,Pampeana,2024,6,1,0
+2058,Chubut,Pampeana,2024,7,4,0
+2059,Chubut,Pampeana,2024,8,7,0
+2060,Chubut,Pampeana,2024,9,2,0
+2061,Chubut,Pampeana,2024,10,25,0
+2062,Chubut,Pampeana,2024,11,2,0
+2063,Chubut,Pampeana,2024,12,2,0
+2064,CABA,Pampeana,2024,1,0,0
+2065,CABA,Pampeana,2024,2,0,0
+2066,CABA,Pampeana,2024,3,0,0
+2067,CABA,Pampeana,2024,4,0,0
+2068,CABA,Pampeana,2024,5,0,0
+2069,CABA,Pampeana,2024,6,0,0
+2070,CABA,Pampeana,2024,7,0,0
+2071,CABA,Pampeana,2024,8,0,0
+2072,CABA,Pampeana,2024,9,0,0
+2073,CABA,Pampeana,2024,10,0,0
+2074,CABA,Pampeana,2024,11,0,0
+2075,CABA,Pampeana,2024,12,0,0
+2076,Corrientes,NEA,2024,1,139,0
+2077,Corrientes,NEA,2024,2,344,0
+2078,Corrientes,NEA,2024,3,596,0
+2079,Corrientes,NEA,2024,4,269,0
+2080,Corrientes,NEA,2024,5,303,0
+2081,Corrientes,NEA,2024,6,1313,0
+2082,Corrientes,NEA,2024,7,2754,0
+2083,Corrientes,NEA,2024,8,3890,0
+2084,Corrientes,NEA,2024,9,2740,0
+2085,Corrientes,NEA,2024,10,992,0
+2086,Corrientes,NEA,2024,11,414,0
+2087,Corrientes,NEA,2024,12,339,0
+2088,Córdoba,Centro,2024,1,84,0
+2089,Córdoba,Centro,2024,2,66,0
+2090,Córdoba,Centro,2024,3,39,0
+2091,Córdoba,Centro,2024,4,57,0
+2092,Córdoba,Centro,2024,5,32,0
+2093,Córdoba,Centro,2024,6,48,0
+2094,Córdoba,Centro,2024,7,397,0
+2095,Córdoba,Centro,2024,8,375,0
+2096,Córdoba,Centro,2024,9,4076,0
+2097,Córdoba,Centro,2024,10,923,0
+2098,Córdoba,Centro,2024,11,237,0
+2099,Córdoba,Centro,2024,12,166,0
+2100,Entre Ríos,NEA,2024,1,76,0
+2101,Entre Ríos,NEA,2024,2,112,0
+2102,Entre Ríos,NEA,2024,3,136,0
+2103,Entre Ríos,NEA,2024,4,35,0
+2104,Entre Ríos,NEA,2024,5,105,0
+2105,Entre Ríos,NEA,2024,6,193,0
+2106,Entre Ríos,NEA,2024,7,573,0
+2107,Entre Ríos,NEA,2024,8,643,0
+2108,Entre Ríos,NEA,2024,9,807,0
+2109,Entre Ríos,NEA,2024,10,321,0
+2110,Entre Ríos,NEA,2024,11,109,0
+2111,Entre Ríos,NEA,2024,12,125,0
+2112,Formosa,Norte,2024,1,1182,0
+2113,Formosa,Norte,2024,2,1882,0
+2114,Formosa,Norte,2024,3,5795,0
+2115,Formosa,Norte,2024,4,299,0
+2116,Formosa,Norte,2024,5,76,0
+2117,Formosa,Norte,2024,6,862,0
+2118,Formosa,Norte,2024,7,1153,0
+2119,Formosa,Norte,2024,8,3217,0
+2120,Formosa,Norte,2024,9,5211,0
+2121,Formosa,Norte,2024,10,2418,0
+2122,Formosa,Norte,2024,11,840,0
+2123,Formosa,Norte,2024,12,168,0
+2124,Jujuy,NOA,2024,1,10,0
+2125,Jujuy,NOA,2024,2,30,0
+2126,Jujuy,NOA,2024,3,8,0
+2127,Jujuy,NOA,2024,4,5,0
+2128,Jujuy,NOA,2024,5,4,0
+2129,Jujuy,NOA,2024,6,42,0
+2130,Jujuy,NOA,2024,7,153,0
+2131,Jujuy,NOA,2024,8,249,0
+2132,Jujuy,NOA,2024,9,161,0
+2133,Jujuy,NOA,2024,10,168,0
+2134,Jujuy,NOA,2024,11,124,0
+2135,Jujuy,NOA,2024,12,45,0
+2136,La Pampa,Pampeana,2024,1,131,0
+2137,La Pampa,Pampeana,2024,2,538,0
+2138,La Pampa,Pampeana,2024,3,76,0
+2139,La Pampa,Pampeana,2024,4,45,0
+2140,La Pampa,Pampeana,2024,5,11,0
+2141,La Pampa,Pampeana,2024,6,15,0
+2142,La Pampa,Pampeana,2024,7,131,0
+2143,La Pampa,Pampeana,2024,8,427,0
+2144,La Pampa,Pampeana,2024,9,521,0
+2145,La Pampa,Pampeana,2024,10,88,0
+2146,La Pampa,Pampeana,2024,11,30,0
+2147,La Pampa,Pampeana,2024,12,140,0
+2148,La Rioja,Centro,2024,1,39,0
+2149,La Rioja,Centro,2024,2,25,0
+2150,La Rioja,Centro,2024,3,19,0
+2151,La Rioja,Centro,2024,4,21,0
+2152,La Rioja,Centro,2024,5,34,0
+2153,La Rioja,Centro,2024,6,43,0
+2154,La Rioja,Centro,2024,7,71,0
+2155,La Rioja,Centro,2024,8,1670,0
+2156,La Rioja,Centro,2024,9,116,0
+2157,La Rioja,Centro,2024,10,150,0
+2158,La Rioja,Centro,2024,11,42,0
+2159,La Rioja,Centro,2024,12,47,0
+2160,Mendoza,Pampeana,2024,1,43,0
+2161,Mendoza,Pampeana,2024,2,47,0
+2162,Mendoza,Pampeana,2024,3,63,0
+2163,Mendoza,Pampeana,2024,4,103,0
+2164,Mendoza,Pampeana,2024,5,75,0
+2165,Mendoza,Pampeana,2024,6,87,0
+2166,Mendoza,Pampeana,2024,7,472,0
+2167,Mendoza,Pampeana,2024,8,235,0
+2168,Mendoza,Pampeana,2024,9,281,0
+2169,Mendoza,Pampeana,2024,10,159,0
+2170,Mendoza,Pampeana,2024,11,105,0
+2171,Mendoza,Pampeana,2024,12,147,0
+2172,Misiones,NEA,2024,1,134,0
+2173,Misiones,NEA,2024,2,145,0
+2174,Misiones,NEA,2024,3,255,0
+2175,Misiones,NEA,2024,4,194,0
+2176,Misiones,NEA,2024,5,31,0
+2177,Misiones,NEA,2024,6,725,0
+2178,Misiones,NEA,2024,7,667,0
+2179,Misiones,NEA,2024,8,1441,0
+2180,Misiones,NEA,2024,9,632,0
+2181,Misiones,NEA,2024,10,249,0
+2182,Misiones,NEA,2024,11,128,0
+2183,Misiones,NEA,2024,12,151,0
+2184,Neuquén,Pampeana,2024,1,590,0
+2185,Neuquén,Pampeana,2024,2,528,0
+2186,Neuquén,Pampeana,2024,3,720,0
+2187,Neuquén,Pampeana,2024,4,379,0
+2188,Neuquén,Pampeana,2024,5,348,0
+2189,Neuquén,Pampeana,2024,6,241,0
+2190,Neuquén,Pampeana,2024,7,607,0
+2191,Neuquén,Pampeana,2024,8,442,0
+2192,Neuquén,Pampeana,2024,9,464,0
+2193,Neuquén,Pampeana,2024,10,660,0
+2194,Neuquén,Pampeana,2024,11,406,0
+2195,Neuquén,Pampeana,2024,12,689,0
+2196,Río Negro,Pampeana,2024,1,98,0
+2197,Río Negro,Pampeana,2024,2,114,0
+2198,Río Negro,Pampeana,2024,3,108,0
+2199,Río Negro,Pampeana,2024,4,35,0
+2200,Río Negro,Pampeana,2024,5,52,0
+2201,Río Negro,Pampeana,2024,6,31,0
+2202,Río Negro,Pampeana,2024,7,209,0
+2203,Río Negro,Pampeana,2024,8,213,0
+2204,Río Negro,Pampeana,2024,9,269,0
+2205,Río Negro,Pampeana,2024,10,119,0
+2206,Río Negro,Pampeana,2024,11,80,0
+2207,Río Negro,Pampeana,2024,12,318,0
+2208,Salta,NOA,2024,1,202,0
+2209,Salta,NOA,2024,2,182,0
+2210,Salta,NOA,2024,3,139,0
+2211,Salta,NOA,2024,4,36,0
+2212,Salta,NOA,2024,5,31,0
+2213,Salta,NOA,2024,6,118,0
+2214,Salta,NOA,2024,7,600,0
+2215,Salta,NOA,2024,8,1154,0
+2216,Salta,NOA,2024,9,1372,0
+2217,Salta,NOA,2024,10,1360,0
+2218,Salta,NOA,2024,11,238,0
+2219,Salta,NOA,2024,12,209,0
+2220,San Juan,Centro,2024,1,156,0
+2221,San Juan,Centro,2024,2,24,0
+2222,San Juan,Centro,2024,3,44,0
+2223,San Juan,Centro,2024,4,55,0
+2224,San Juan,Centro,2024,5,31,0
+2225,San Juan,Centro,2024,6,63,0
+2226,San Juan,Centro,2024,7,83,0
+2227,San Juan,Centro,2024,8,107,0
+2228,San Juan,Centro,2024,9,296,0
+2229,San Juan,Centro,2024,10,92,0
+2230,San Juan,Centro,2024,11,72,0
+2231,San Juan,Centro,2024,12,198,0
+2232,San Luis,Centro,2024,1,72,0
+2233,San Luis,Centro,2024,2,48,0
+2234,San Luis,Centro,2024,3,52,0
+2235,San Luis,Centro,2024,4,22,0
+2236,San Luis,Centro,2024,5,24,0
+2237,San Luis,Centro,2024,6,14,0
+2238,San Luis,Centro,2024,7,240,0
+2239,San Luis,Centro,2024,8,137,0
+2240,San Luis,Centro,2024,9,2732,0
+2241,San Luis,Centro,2024,10,367,0
+2242,San Luis,Centro,2024,11,113,0
+2243,San Luis,Centro,2024,12,134,0
+2244,Santa Cruz,Pampeana,2024,1,157,0
+2245,Santa Cruz,Pampeana,2024,2,95,0
+2246,Santa Cruz,Pampeana,2024,3,18,0
+2247,Santa Cruz,Pampeana,2024,4,23,0
+2248,Santa Cruz,Pampeana,2024,5,6,0
+2249,Santa Cruz,Pampeana,2024,6,2,0
+2250,Santa Cruz,Pampeana,2024,7,6,0
+2251,Santa Cruz,Pampeana,2024,8,5,0
+2252,Santa Cruz,Pampeana,2024,9,3,0
+2253,Santa Cruz,Pampeana,2024,10,10,0
+2254,Santa Cruz,Pampeana,2024,11,10,0
+2255,Santa Cruz,Pampeana,2024,12,16,0
+2256,Santa Fe,,2024,1,381,0
+2257,Santa Fe,,2024,2,456,0
+2258,Santa Fe,,2024,3,372,0
+2259,Santa Fe,,2024,4,198,0
+2260,Santa Fe,,2024,5,299,0
+2261,Santa Fe,,2024,6,716,0
+2262,Santa Fe,,2024,7,2307,0
+2263,Santa Fe,,2024,8,6149,0
+2264,Santa Fe,,2024,9,6805,0
+2265,Santa Fe,,2024,10,3912,0
+2266,Santa Fe,,2024,11,1377,0
+2267,Santa Fe,,2024,12,1211,0
+2268,Santiago del Estero,,2024,1,380,0
+2269,Santiago del Estero,,2024,2,381,0
+2270,Santiago del Estero,,2024,3,261,0
+2271,Santiago del Estero,,2024,4,96,0
+2272,Santiago del Estero,,2024,5,183,0
+2273,Santiago del Estero,,2024,6,323,0
+2274,Santiago del Estero,,2024,7,917,0
+2275,Santiago del Estero,,2024,8,3351,0
+2276,Santiago del Estero,,2024,9,3075,0
+2277,Santiago del Estero,,2024,10,1557,0
+2278,Santiago del Estero,,2024,11,514,0
+2279,Santiago del Estero,,2024,12,559,0
+2280,Tierra del Fuego,,2024,1,4,0
+2281,Tierra del Fuego,,2024,2,0,0
+2282,Tierra del Fuego,,2024,3,3,0
+2283,Tierra del Fuego,,2024,4,0,0
+2284,Tierra del Fuego,,2024,5,1,0
+2285,Tierra del Fuego,,2024,6,4,0
+2286,Tierra del Fuego,,2024,7,7,0
+2287,Tierra del Fuego,,2024,8,1,0
+2288,Tierra del Fuego,,2024,9,0,0
+2289,Tierra del Fuego,,2024,10,3,0
+2290,Tierra del Fuego,,2024,11,0,0
+2291,Tierra del Fuego,,2024,12,2,0
+2292,Tucumán,NOA,2024,1,40,0
+2293,Tucumán,NOA,2024,2,9,0
+2294,Tucumán,NOA,2024,3,5,0
+2295,Tucumán,NOA,2024,4,8,0
+2296,Tucumán,NOA,2024,5,8,0
+2297,Tucumán,NOA,2024,6,148,0
+2298,Tucumán,NOA,2024,7,675,0
+2299,Tucumán,NOA,2024,8,1248,0
+2300,Tucumán,NOA,2024,9,1113,0
+2301,Tucumán,NOA,2024,10,390,0
+2302,Tucumán,NOA,2024,11,69,0
+2303,Tucumán,NOA,2024,12,101,0

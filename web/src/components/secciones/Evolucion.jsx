@@ -1,28 +1,7 @@
-import Plot from "react-plotly.js"
 
+import FocosCalor from '../../assets/focos_calor_por_anio.svg'
 function Evolucion() {
-  // Datos inventados por ahora
-    const data = [
-        {
-        x: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
-        y: [1200, 1350, 1100, 1600, 1900, 1700, 1500, 1800],
-        type: "scatter",
-        mode: "lines+markers",
-        marker: { color: "#EF4444" },
-        line: { shape: "linear" },
-        name: "Focos de calor",
-        },
-    ]
-
-    const layout = {
-        title: "Evolución Anual de Focos de Calor",
-        xaxis: { title: "Año" },
-        yaxis: { title: "Cantidad de focos" },
-        plot_bgcolor: "#F9FAFB",
-        paper_bgcolor: "#F9FAFB",
-        font: { family: "sans-serif", size: 14 },
-    }
-
+  
     return (
         <section
         id="evolucion"
@@ -39,13 +18,7 @@ function Evolucion() {
             del tiempo.
             </p>            
             <div className="bg-white shadow-md rounded-xl p-6">
-                <Plot
-                    data={data}
-                    layout={{ ...layout, autosize: true }}
-                    config={{ responsive: true }}
-                    useResizeHandler={true}
-                    style={{ width: "100%", height: "100%" }}
-                />
+                <img src={FocosCalor} alt="Focos de Calor por año" />
             </div>
 
             
