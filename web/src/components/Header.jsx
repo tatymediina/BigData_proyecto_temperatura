@@ -12,7 +12,7 @@ function Header() {
         setIsScrolled(window.scrollY > 10)
 
         // Determinar la sección activa según la posición de desplazamiento
-        const sections = ["inicio", "evolucion", "distribucion", "regiones", "superficie", "mapa"]
+        const sections = ["inicio", "incendios", "focosCalor", "superficie"]
 
         for (const section of sections) {
             const element = document.getElementById(section)
@@ -40,11 +40,10 @@ function Header() {
 
     const navItems = [
         { id: "inicio", label: "Inicio" },
-        { id: "evolucion", label: "Evolución" },
-        { id: "distribucion", label: "Distribución" },
-        { id: "regiones", label: "Regiones" },
-        { id: "superficie", label: "Superficie" },
-        { id: "mapa", label: "Mapa" },
+        { id: "incendios", label: "Incendios Reportados" },
+        { id: "focosCalor", label: "Focos de Calor" },
+        { id: "superficie", label: "Superficie Afectada" },
+        
     ]
 
     return (

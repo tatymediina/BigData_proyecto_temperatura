@@ -1,4 +1,4 @@
-import mapa from '../../assets/mapa.svg'
+import mapa from '../../assets/c_focos_prov_mes.svg'
 
 function Mapa() {
     
@@ -6,10 +6,10 @@ function Mapa() {
         <section id="mapa" className="bg-gray-100 py-24 px-4">
         <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center mb-6">
-            Mapa de Calor Mensual por Provincia
+            Distribución de Focos de Calor por Provincia y Mes
             </h2>
             <p className="text-gray-700 text-center mb-8">
-            El heatmap permite visualizar cuándo y dónde se concentran más los incendios.
+            Este mapa de calor muestra la distribución mensual de focos de calor registrados en cada jurisdicción.
             Es ideal para detectar combinaciones críticas de provincia y mes que requieren
             atención y prevención especial.
             </p>

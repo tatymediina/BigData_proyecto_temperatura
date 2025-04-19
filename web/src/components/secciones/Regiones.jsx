@@ -1,10 +1,10 @@
-import region from '../../assets/region.svg'
+import region from '../../assets/c_in_region.svg'
 
 function Regiones() {
     
 
     return (
-        <section id="regiones" className="bg-gray-100 py-24 px-4">
+        <section  className="bg-gray-100 py-24 px-4">
         <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center mb-6">
             Comparación Regional de Incendios

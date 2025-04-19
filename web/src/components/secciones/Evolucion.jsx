@@ -1,10 +1,10 @@
 
-import FocosCalor from '../../assets/focos_calor_por_anio.svg'
+import FocosCalor from '../../assets/c_focos_año.svg'
 function Evolucion() {
   
     return (
         <section
-        id="evolucion"
+       
         className="bg-gray-100 py-24 px-4"
         >
         <div className="max-w-4xl mx-auto">
@@ -12,10 +12,7 @@ function Evolucion() {
             Evolución Anual de Focos de Calor
             </h2>
             <p className="text-gray-700 text-center mb-8">
-            El gráfico de líneas permite visualizar cómo ha evolucionado la cantidad de focos
-            de calor detectados año a año en Argentina. Esta visualización ayuda a identificar
-            tendencias, detectar años críticos y observar el comportamiento del fuego a lo largo
-            del tiempo.
+            El siguiente gráfico muestra la evolución anual de focos de calor detectados en Argentina. Cada punto representa la cantidad total registrada en ese año. Los focos no confirman incendios, pero indican actividad térmica relevante
             </p>            
             <div className="bg-white shadow-md rounded-xl p-6">
                 <img src={FocosCalor} alt="Focos de Calor por año" />

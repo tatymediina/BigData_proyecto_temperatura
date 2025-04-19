@@ -5,6 +5,8 @@ import Regiones from './secciones/Regiones.jsx'
 import Superficie from './secciones/Superficie.jsx'
 import Mapa from './secciones/Mapa.jsx'
 import Footer from './Footer.jsx'
+import IncendiosMes from './secciones/IncendiosMes.jsx'
+import IncendiosProv from './secciones/IncendiosProv.jsx'
 function Home() {
     return (
         <div className="min-h-screen">
@@ -27,30 +29,26 @@ function Home() {
                     Ver análisis
                 </button>
             </section>
-
-
-            <section id="evolucion" className="bg-gray-100 py-24 px-4">
-                {/**<h2 className="text-4xl font-bold">Evolución</h2>*/}
-                <Evolucion />
-            </section>
-
-            <section id="distribucion" className="bg-gray-100 py-24 px-4">
-                <Distribucion />
-            </section>
-
-            <section id="regiones" className="bg-gray-100 py-24 px-4">
+            
+            <section id="incendios" className="bg-gray-100 py-24 px-4">
+                <IncendiosMes />
+                <IncendiosProv />
                 <Regiones />
             </section>
+            
 
-            <section id="superficie" className="bg-gray-100 py-24 px-4">
-                < Superficie />
-            </section>
-
-            <section id="mapa" className="bg-gray-100 py-24 px-4">
+            <section id="focosCalor" className="bg-gray-100 py-24 px-4">
+                {/**<h2 className="text-4xl font-bold">Evolución</h2>*/}
+                <Evolucion />
+                <Distribucion />
                 <Mapa />
             </section>
-
+            <section id="superficie" className="bg-gray-100 py-24 px-4 min-h-screen">
+                < Superficie />
+            </section>
+            <section>
             <Footer />
+            </section>
         </div>
     )
 }
