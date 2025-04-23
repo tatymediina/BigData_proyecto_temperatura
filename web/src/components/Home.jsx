@@ -23,7 +23,7 @@ function Home() {
                     impacto ambiental según región.
                 </p>
                 <button
-                    onClick={() => document.getElementById("evolucion").scrollIntoView({ behavior: "smooth" })}
+                    onClick={() => document.getElementById("incendios").scrollIntoView({ behavior: "smooth" })}
                     className="boton-naranja"
                 >
                     Ver análisis
