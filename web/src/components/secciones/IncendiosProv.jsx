@@ -1,5 +1,3 @@
-import incendios from '../../assets/in_prov_año.svg'
-
 function IncendiosProv() {
     
 
@@ -13,7 +11,11 @@ function IncendiosProv() {
             El siguiente gráfico muestra la cantidad total de incendios reportados en cada provincia durante el período analizado. Permite comparar la magnitud del problema entre jurisdicciones.
             </p>
             <div className="bg-white shadow-md rounded-xl p-6">
-            <img src={incendios} alt="" />
+            <iframe 
+    src="/incendios_prov_año.html" 
+    
+    style={{ width: '100%', height: '800px', border: 'none' }}
+  />
             </div>
         </div>
         </section>

@@ -1,4 +1,4 @@
-import region from '../../assets/c_in_region.svg'
+
 
 function Regiones() {
     
@@ -15,7 +15,11 @@ function Regiones() {
             cambios en el comportamiento del fuego en distintas partes del país.
             </p>
             <div className="bg-white shadow-md rounded-xl p-6">
-            <img src={region} alt="" />
+            <iframe 
+    src="/incendios_region.html" 
+    title="Comparación Regional de Incendios"
+    style={{ width: '100%', height: '600px', border: 'none' }}
+  />
             </div>
         </div>
         </section>
