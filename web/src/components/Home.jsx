@@ -11,9 +11,7 @@ function Home() {
     return (
         <div className="min-h-screen">
             <Header />
-
-            {/* Secciones para la navegación / insertar los gráficos acá */}
-            <section id="inicio" className="min-h-screen pt-32 bg-inicio flex flex-col items-center justify-center text-center">
+            <section id="inicio" className="min-h-screen pt-32 bg-red-100 flex flex-col items-center justify-center text-center">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
                     Incendios Forestales en Argentina
                 </h1>
@@ -23,7 +21,7 @@ function Home() {
                     impacto ambiental según región.
                 </p>
                 <button
-                    onClick={() => document.getElementById("evolucion").scrollIntoView({ behavior: "smooth" })}
+                    onClick={() => document.getElementById("incendios").scrollIntoView({ behavior: "smooth" })}
                     className="boton-naranja"
                 >
                     Ver análisis
@@ -38,7 +36,7 @@ function Home() {
             
 
             <section id="focosCalor" className="bg-gray-100 py-24 px-4">
-                {/**<h2 className="text-4xl font-bold">Evolución</h2>*/}
+        
                 <Evolucion />
                 <Distribucion />
                 <Mapa />

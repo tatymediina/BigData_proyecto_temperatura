@@ -1,5 +1,3 @@
-import jurisdiccion from '../../assets/c_hect_prov_año.svg'
-
 function Superficie() {
     
 
@@ -14,7 +12,11 @@ function Superficie() {
             Los colores indican la magnitud del área quemadas.
             </p>
             <div className="bg-white shadow-md rounded-xl p-6">
-            <img src={jurisdiccion} alt="" />
+            <iframe 
+    src="/superficie.html" 
+    title="Superficie afectada por incendios"
+    style={{ width: '100%', height: '700px', border: 'none' }}
+  />
             </div>
         </div>
         </section>

@@ -1,4 +1,3 @@
-import incendios from '../../assets/c_incendios_mes_año.svg'
 
 function IncendiosMes() {
     
@@ -13,7 +12,11 @@ function IncendiosMes() {
             El siguiente gráfico  muestra la cantidad de incendios reportados por mes durante el período analizado. Permite visualizar variaciones estacionales y tendencias a lo largo del tiempo.
             </p>
             <div className="bg-white shadow-md rounded-xl p-6">
-            <img src={incendios} alt="" />
+            <iframe 
+    src="/incendios_mes.html" 
+    title="Evolución Mensual de Incendios Reportados"
+    style={{ width: '100%', height: '600px', border: 'none' }}
+  />
             </div>
         </div>
         </section>
